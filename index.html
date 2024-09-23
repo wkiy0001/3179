@@ -3,36 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rainfall Visualization</title>
-    <style>
-        /* Reset basic elements for consistent styling across browsers */
-        html, body {
-            height: 100%;
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-        }
-
-        /* Set up the body to center the content */
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: #f4f4f4;
-        }
-
-        /* Styling for the container where the Vega-Lite visualization will render */
-        #vis {
-            width: 90%; /* Responsive width, up to 90% of the viewport width */
-            max-width: 900px; /* Maximum width of the container */
-            border: 1px solid #ccc; /* Light grey border around the visualization */
-            padding: 20px; /* Padding around the visualization for spacing */
-            background: #fff; /* White background for the visualization area */
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Subtle shadow for 3D effect */
-        }
-
-        /* Add additional styles below as needed */
-    </style>
+    <title>Australian Population Visualization</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div id="vis"></div>
@@ -43,17 +15,9 @@
     <script>
         const spec = {
             "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-            "description": "Rainfall Visualization for Australia using latitude and longitude",
             "width": 800,
             "height": 600,
-            "background": "#f0f0f0",
-            "title": {
-                "text": "Monthly Rainfall Across Australia - January 2021",
-                "anchor": "start",
-                "color": "black",
-                "fontSize": 20,
-                "font": "Arial"
-            },
+            "title": "Population of Australian States and Territories (2024)",
             "projection": {
                 "type": "mercator",
                 "scale": 1000,
@@ -62,43 +26,43 @@
             "layer": [
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/wkiy0001/3179/refs/heads/main/australia-with-states_782.topojson",
+                        "url": "https://raw.githubusercontent.com/wkiy0001/3179/refs/heads/main/output.json",
                         "format": {"type": "topojson", "feature": "australia-with-states_782"}
                     },
                     "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
                 },
                 {
                     "data": {
-                        "url": "https://raw.githubusercontent.com/wkiy0001/3179/refs/heads/main/rainfall_data%20(1).csv"
+                        "url": "https://raw.githubusercontent.com/wkiy0001/3179/refs/heads/main/output.json",
+                        "format": {"type": "topojson", "feature": "australia-with-states_782"}
                     },
-                    "mark": "circle",
+                    "transform": [
+                        {
+                            "lookup": "properties.STATE_NAME",
+                            "from": {
+                                "data": {
+                                    "url": "https://raw.githubusercontent.com/wkiy0001/3179/refs/heads/main/population_summary.csv"
+                                },
+                                "key": "admin_name",
+                                "fields": ["Total_Population"]
+                            }
+                        }
+                    ],
+                    "mark": {"type": "geoshape", "stroke": "white"},
                     "encoding": {
-                        "longitude": {
-                            "field": "Longitude",
-                            "type": "quantitative"
-                        },
-                        "latitude": {
-                            "field": "Latitude",
-                            "type": "quantitative"
-                        },
-                        "size": {"value": 10},
                         "color": {
-                            "field": "Rainfall",
+                            "field": "Total_Population",
                             "type": "quantitative",
+                            "title": "Population",
                             "scale": {
+                                "type": "threshold",
+                                "domain": [500000, 1000000, 2000000, 4000000, 6000000],
                                 "scheme": "blues"
-                            },
-                            "legend": {
-                                "title": "Rainfall (mm)",
-                                "orient": "right",  // Position of the legend
-                                "labelFontSize": 12,
-                                "titleFontSize": 14
                             }
                         },
                         "tooltip": [
-                            {"field": "Latitude", "type": "quantitative"},
-                            {"field": "Longitude", "type": "quantitative"},
-                            {"field": "Rainfall", "type": "quantitative"}
+                            {"field": "properties.STATE_NAME", "type": "nominal", "title": "State/Territory"},
+                            {"field": "Total_Population", "type": "quantitative", "title": "Population", "format": ","}
                         ]
                     }
                 },
