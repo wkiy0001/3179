@@ -1,1377 +1,1377 @@
-"Quarter","Year","Population_Increase","State"
-"Jun",1981,11516,"New South Wales"
-"Sep",1981,9559,"Victoria"
-"Dec",1981,9181,"Queensland"
-"Mar",1982,11081,"South Australia"
-"Jun",1982,11097,"Western Australia"
-"Sep",1982,8270,"Tasmania"
-"Dec",1982,10933,"Northern Territory"
-"Mar",1983,12635,"Australian Capital Territory"
-"Jun",1983,10994,"New South Wales"
-"Sep",1983,9047,"Victoria"
-"Dec",1983,10084,"Queensland"
-"Mar",1984,11563,"South Australia"
-"Jun",1984,10569,"Western Australia"
-"Sep",1984,8998,"Tasmania"
-"Dec",1984,10004,"Northern Territory"
-"Mar",1985,12501,"Australian Capital Territory"
-"Jun",1985,10401,"New South Wales"
-"Sep",1985,7934,"Victoria"
-"Dec",1985,10244,"Queensland"
-"Mar",1986,11629,"South Australia"
-"Jun",1986,9623,"Western Australia"
-"Sep",1986,8403,"Tasmania"
-"Dec",1986,12709,"Northern Territory"
-"Mar",1987,9839,"Australian Capital Territory"
-"Jun",1987,10350,"New South Wales"
-"Sep",1987,9509,"Victoria"
-"Dec",1987,14206,"Queensland"
-"Mar",1988,8547,"South Australia"
-"Jun",1988,9821,"Western Australia"
-"Sep",1988,9053,"Tasmania"
-"Dec",1988,12550,"Northern Territory"
-"Mar",1989,12245,"Australian Capital Territory"
-"Jun",1989,10588,"New South Wales"
-"Sep",1989,5708,"Victoria"
-"Dec",1989,12189,"Queensland"
-"Mar",1990,10140,"South Australia"
-"Jun",1990,13609,"Western Australia"
-"Sep",1990,10339,"Tasmania"
-"Dec",1990,12633,"Northern Territory"
-"Mar",1991,11579,"Australian Capital Territory"
-"Jun",1991,12541,"New South Wales"
-"Sep",1991,10526,"Victoria"
-"Dec",1991,11305,"Queensland"
-"Mar",1992,13105,"South Australia"
-"Jun",1992,11054,"Western Australia"
-"Sep",1992,11050,"Tasmania"
-"Dec",1992,11571,"Northern Territory"
-"Mar",1993,12716,"Australian Capital Territory"
-"Jun",1993,11364,"New South Wales"
-"Sep",1993,10665,"Victoria"
-"Dec",1993,11399,"Queensland"
-"Mar",1994,12350,"South Australia"
-"Jun",1994,10359,"Western Australia"
-"Sep",1994,9484,"Tasmania"
-"Dec",1994,11082,"Northern Territory"
-"Mar",1995,11907,"Australian Capital Territory"
-"Jun",1995,10610,"New South Wales"
-"Sep",1995,9602,"Victoria"
-"Dec",1995,10234,"Queensland"
-"Mar",1996,10978,"South Australia"
-"Jun",1996,9970,"Western Australia"
-"Sep",1996,9227,"Tasmania"
-"Dec",1996,12080,"Northern Territory"
-"Mar",1997,11166,"Australian Capital Territory"
-"Jun",1997,10804,"New South Wales"
-"Sep",1997,8534,"Victoria"
-"Dec",1997,11009,"Queensland"
-"Mar",1998,10460,"South Australia"
-"Jun",1998,10042,"Western Australia"
-"Sep",1998,9193,"Tasmania"
-"Dec",1998,10940,"Northern Territory"
-"Mar",1999,10914,"Australian Capital Territory"
-"Jun",1999,10258,"New South Wales"
-"Sep",1999,9676,"Victoria"
-"Dec",1999,10369,"Queensland"
-"Mar",2000,11374,"South Australia"
-"Jun",2000,10483,"Western Australia"
-"Sep",2000,9137,"Tasmania"
-"Dec",2000,11361,"Northern Territory"
-"Mar",2001,10883,"Australian Capital Territory"
-"Jun",2001,10020,"New South Wales"
-"Sep",2001,9475,"Victoria"
-"Dec",2001,9757,"Queensland"
-"Mar",2002,11439,"South Australia"
-"Jun",2002,9377,"Western Australia"
-"Sep",2002,8450,"Tasmania"
-"Dec",2002,10587,"Northern Territory"
-"Mar",2003,10787,"Australian Capital Territory"
-"Jun",2003,10149,"New South Wales"
-"Sep",2003,8878,"Victoria"
-"Dec",2003,10151,"Queensland"
-"Mar",2004,11413,"South Australia"
-"Jun",2004,9023,"Western Australia"
-"Sep",2004,8592,"Tasmania"
-"Dec",2004,9910,"Northern Territory"
-"Mar",2005,11677,"Australian Capital Territory"
-"Jun",2005,11201,"New South Wales"
-"Sep",2005,10493,"Victoria"
-"Dec",2005,11236,"Queensland"
-"Mar",2006,10033,"South Australia"
-"Jun",2006,10763,"Western Australia"
-"Sep",2006,11589,"Tasmania"
-"Dec",2006,12346,"Northern Territory"
-"Mar",2007,13709,"Australian Capital Territory"
-"Jun",2007,12570,"New South Wales"
-"Sep",2007,11319,"Victoria"
-"Dec",2007,12601,"Queensland"
-"Mar",2008,13675,"South Australia"
-"Jun",2008,12041,"Western Australia"
-"Sep",2008,11312,"Tasmania"
-"Dec",2008,13627,"Northern Territory"
-"Mar",2009,13333,"Australian Capital Territory"
-"Jun",2009,12266,"New South Wales"
-"Sep",2009,12466,"Victoria"
-"Dec",2009,13435,"Queensland"
-"Mar",2010,13881,"South Australia"
-"Jun",2010,13254,"Western Australia"
-"Sep",2010,12247,"Tasmania"
-"Dec",2010,11876,"Northern Territory"
-"Mar",2011,13703,"Australian Capital Territory"
-"Jun",2011,12172,"New South Wales"
-"Sep",2011,11063,"Victoria"
-"Dec",2011,11684,"Queensland"
-"Mar",2012,13729,"South Australia"
-"Jun",2012,11945,"Western Australia"
-"Sep",2012,11114,"Tasmania"
-"Dec",2012,13358,"Northern Territory"
-"Mar",2013,13255,"Australian Capital Territory"
-"Jun",2013,11918,"New South Wales"
-"Sep",2013,10275,"Victoria"
-"Dec",2013,11654,"Queensland"
-"Mar",2014,12341,"South Australia"
-"Jun",2014,11073,"Western Australia"
-"Sep",2014,9978,"Tasmania"
-"Dec",2014,12029,"Northern Territory"
-"Mar",2015,12461,"Australian Capital Territory"
-"Jun",2015,10455,"New South Wales"
-"Sep",2015,10185,"Victoria"
-"Dec",2015,11479,"Queensland"
-"Mar",2016,12677,"South Australia"
-"Jun",2016,11814,"Western Australia"
-"Sep",2016,10332,"Tasmania"
-"Dec",2016,11344,"Northern Territory"
-"Mar",2017,12366,"Australian Capital Territory"
-"Jun",2017,10695,"New South Wales"
-"Sep",2017,8451,"Victoria"
-"Dec",2017,10889,"Queensland"
-"Mar",2018,12484,"South Australia"
-"Jun",2018,11430,"Western Australia"
-"Sep",2018,10545,"Tasmania"
-"Dec",2018,11402,"Northern Territory"
-"Mar",2019,11985,"Australian Capital Territory"
-"Jun",2019,10799,"New South Wales"
-"Sep",2019,10026,"Victoria"
-"Dec",2019,11010,"Queensland"
-"Mar",2020,11348,"South Australia"
-"Jun",2020,10285,"Western Australia"
-"Sep",2020,9794,"Tasmania"
-"Dec",2020,9844,"Northern Territory"
-"Mar",2021,13071,"Australian Capital Territory"
-"Jun",2021,11356,"New South Wales"
-"Sep",2021,10241,"Victoria"
-"Dec",2021,11428,"Queensland"
-"Mar",2022,9771,"South Australia"
-"Jun",2022,8425,"Western Australia"
-"Sep",2022,6521,"Tasmania"
-"Dec",2022,8260,"Northern Territory"
-"Mar",2023,8990,"Australian Capital Territory"
-"Jun",2023,7782,"New South Wales"
-"Sep",2023,7556,"Victoria"
-"Dec",2023,8190,"Queensland"
-"Mar",2024,7248,"South Australia"
-"Jun",1981,7302,"Western Australia"
-"Sep",1981,7353,"Tasmania"
-"Dec",1981,7191,"Northern Territory"
-"Mar",1982,8492,"Australian Capital Territory"
-"Jun",1982,7310,"New South Wales"
-"Sep",1982,5808,"Victoria"
-"Dec",1982,7572,"Queensland"
-"Mar",1983,8082,"South Australia"
-"Jun",1983,7916,"Western Australia"
-"Sep",1983,7339,"Tasmania"
-"Dec",1983,7226,"Northern Territory"
-"Mar",1984,8542,"Australian Capital Territory"
-"Jun",1984,7489,"New South Wales"
-"Sep",1984,6524,"Victoria"
-"Dec",1984,7409,"Queensland"
-"Mar",1985,8459,"South Australia"
-"Jun",1985,7877,"Western Australia"
-"Sep",1985,6245,"Tasmania"
-"Dec",1985,7610,"Northern Territory"
-"Mar",1986,7431,"Australian Capital Territory"
-"Jun",1986,7808,"New South Wales"
-"Sep",1986,7218,"Victoria"
-"Dec",1986,7530,"Queensland"
-"Mar",1987,8036,"South Australia"
-"Jun",1987,7772,"Western Australia"
-"Sep",1987,7118,"Tasmania"
-"Dec",1987,7032,"Northern Territory"
-"Mar",1988,8294,"Australian Capital Territory"
-"Jun",1988,8141,"New South Wales"
-"Sep",1988,7253,"Victoria"
-"Dec",1988,7720,"Queensland"
-"Mar",1989,8844,"South Australia"
-"Jun",1989,7796,"Western Australia"
-"Sep",1989,7117,"Tasmania"
-"Dec",1989,7866,"Northern Territory"
-"Mar",1990,9598,"Australian Capital Territory"
-"Jun",1990,9111,"New South Wales"
-"Sep",1990,8473,"Victoria"
-"Dec",1990,8802,"Queensland"
-"Mar",1991,9146,"South Australia"
-"Jun",1991,8529,"Western Australia"
-"Sep",1991,7932,"Tasmania"
-"Dec",1991,8493,"Northern Territory"
-"Mar",1992,9173,"Australian Capital Territory"
-"Jun",1992,7921,"New South Wales"
-"Sep",1992,8227,"Victoria"
-"Dec",1992,8498,"Queensland"
-"Mar",1993,8826,"South Australia"
-"Jun",1993,8130,"Western Australia"
-"Sep",1993,7733,"Tasmania"
-"Dec",1993,8328,"Northern Territory"
-"Mar",1994,8838,"Australian Capital Territory"
-"Jun",1994,7679,"New South Wales"
-"Sep",1994,6958,"Victoria"
-"Dec",1994,8311,"Queensland"
-"Mar",1995,8516,"South Australia"
-"Jun",1995,7563,"Western Australia"
-"Sep",1995,6873,"Tasmania"
-"Dec",1995,7243,"Northern Territory"
-"Mar",1996,7665,"Australian Capital Territory"
-"Jun",1996,6719,"New South Wales"
-"Sep",1996,6606,"Victoria"
-"Dec",1996,7745,"Queensland"
-"Mar",1997,7470,"South Australia"
-"Jun",1997,6842,"Western Australia"
-"Sep",1997,6093,"Tasmania"
-"Dec",1997,7447,"Northern Territory"
-"Mar",1998,7408,"Australian Capital Territory"
-"Jun",1998,6774,"New South Wales"
-"Sep",1998,6213,"Victoria"
-"Dec",1998,6799,"Queensland"
-"Mar",1999,7680,"South Australia"
-"Jun",1999,6385,"Western Australia"
-"Sep",1999,7019,"Tasmania"
-"Dec",1999,6997,"Northern Territory"
-"Mar",2000,7277,"Australian Capital Territory"
-"Jun",2000,6449,"New South Wales"
-"Sep",2000,6241,"Victoria"
-"Dec",2000,6782,"Queensland"
-"Mar",2001,6832,"South Australia"
-"Jun",2001,6581,"Western Australia"
-"Sep",2001,7029,"Tasmania"
-"Dec",2001,6689,"Northern Territory"
-"Mar",2002,7387,"Australian Capital Territory"
-"Jun",2002,6677,"New South Wales"
-"Sep",2002,6231,"Victoria"
-"Dec",2002,7045,"Queensland"
-"Mar",2003,7268,"South Australia"
-"Jun",2003,6601,"Western Australia"
-"Sep",2003,6634,"Tasmania"
-"Dec",2003,7380,"Northern Territory"
-"Mar",2004,7762,"Australian Capital Territory"
-"Jun",2004,6575,"New South Wales"
-"Sep",2004,7247,"Victoria"
-"Dec",2004,7160,"Queensland"
-"Mar",2005,7881,"South Australia"
-"Jun",2005,7620,"Western Australia"
-"Sep",2005,7176,"Tasmania"
-"Dec",2005,7866,"Northern Territory"
-"Mar",2006,8341,"Australian Capital Territory"
-"Jun",2006,7324,"New South Wales"
-"Sep",2006,8554,"Victoria"
-"Dec",2006,8539,"Queensland"
-"Mar",2007,9463,"South Australia"
-"Jun",2007,8237,"Western Australia"
-"Sep",2007,8672,"Tasmania"
-"Dec",2007,9023,"Northern Territory"
-"Mar",2008,9457,"Australian Capital Territory"
-"Jun",2008,8166,"New South Wales"
-"Sep",2008,8463,"Victoria"
-"Dec",2008,9126,"Queensland"
-"Mar",2009,8827,"South Australia"
-"Jun",2009,8778,"Western Australia"
-"Sep",2009,8904,"Tasmania"
-"Dec",2009,9904,"Northern Territory"
-"Mar",2010,10006,"Australian Capital Territory"
-"Jun",2010,8850,"New South Wales"
-"Sep",2010,8666,"Victoria"
-"Dec",2010,8646,"Queensland"
-"Mar",2011,9312,"South Australia"
-"Jun",2011,8548,"Western Australia"
-"Sep",2011,9107,"Tasmania"
-"Dec",2011,9627,"Northern Territory"
-"Mar",2012,10401,"Australian Capital Territory"
-"Jun",2012,9715,"New South Wales"
-"Sep",2012,9056,"Victoria"
-"Dec",2012,10591,"Queensland"
-"Mar",2013,10488,"South Australia"
-"Jun",2013,9819,"Western Australia"
-"Sep",2013,9554,"Tasmania"
-"Dec",2013,9761,"Northern Territory"
-"Mar",2014,10589,"Australian Capital Territory"
-"Jun",2014,9315,"New South Wales"
-"Sep",2014,9341,"Victoria"
-"Dec",2014,10112,"Queensland"
-"Mar",2015,10092,"South Australia"
-"Jun",2015,8598,"Western Australia"
-"Sep",2015,9224,"Tasmania"
-"Dec",2015,10306,"Northern Territory"
-"Mar",2016,10943,"Australian Capital Territory"
-"Jun",2016,9652,"New South Wales"
-"Sep",2016,9347,"Victoria"
-"Dec",2016,9564,"Queensland"
-"Mar",2017,10692,"South Australia"
-"Jun",2017,9395,"Western Australia"
-"Sep",2017,8304,"Tasmania"
-"Dec",2017,10309,"Northern Territory"
-"Mar",2018,10665,"Australian Capital Territory"
-"Jun",2018,9851,"New South Wales"
-"Sep",2018,8695,"Victoria"
-"Dec",2018,9563,"Queensland"
-"Mar",2019,10210,"South Australia"
-"Jun",2019,8719,"Western Australia"
-"Sep",2019,8178,"Tasmania"
-"Dec",2019,8835,"Northern Territory"
-"Mar",2020,9166,"Australian Capital Territory"
-"Jun",2020,7959,"New South Wales"
-"Sep",2020,7625,"Victoria"
-"Dec",2020,8315,"Queensland"
-"Mar",2021,10424,"South Australia"
-"Jun",2021,8923,"Western Australia"
-"Sep",2021,8397,"Tasmania"
-"Dec",2021,8292,"Northern Territory"
-"Mar",2022,7750,"Australian Capital Territory"
-"Jun",2022,7185,"New South Wales"
-"Sep",2022,6040,"Victoria"
-"Dec",2022,7246,"Queensland"
-"Mar",2023,7886,"South Australia"
-"Jun",2023,6883,"Western Australia"
-"Sep",2023,7851,"Tasmania"
-"Dec",2023,4646,"Northern Territory"
-"Mar",2024,12302,"Australian Capital Territory"
-"Jun",1981,6191,"New South Wales"
-"Sep",1981,4920,"Victoria"
-"Dec",1981,4756,"Queensland"
-"Mar",1982,6331,"South Australia"
-"Jun",1982,6081,"Western Australia"
-"Sep",1982,4827,"Tasmania"
-"Dec",1982,5350,"Northern Territory"
-"Mar",1983,6857,"Australian Capital Territory"
-"Jun",1983,6926,"New South Wales"
-"Sep",1983,5906,"Victoria"
-"Dec",1983,5340,"Queensland"
-"Mar",1984,6391,"South Australia"
-"Jun",1984,6450,"Western Australia"
-"Sep",1984,5113,"Tasmania"
-"Dec",1984,5097,"Northern Territory"
-"Mar",1985,5767,"Australian Capital Territory"
-"Jun",1985,6297,"New South Wales"
-"Sep",1985,4500,"Victoria"
-"Dec",1985,5234,"Queensland"
-"Mar",1986,5512,"South Australia"
-"Jun",1986,6533,"Western Australia"
-"Sep",1986,5345,"Tasmania"
-"Dec",1986,5120,"Northern Territory"
-"Mar",1987,5556,"Australian Capital Territory"
-"Jun",1987,5754,"New South Wales"
-"Sep",1987,4640,"Victoria"
-"Dec",1987,4554,"Queensland"
-"Mar",1988,5691,"South Australia"
-"Jun",1988,5573,"Western Australia"
-"Sep",1988,4843,"Tasmania"
-"Dec",1988,5651,"Northern Territory"
-"Mar",1989,5872,"Australian Capital Territory"
-"Jun",1989,5966,"New South Wales"
-"Sep",1989,4898,"Victoria"
-"Dec",1989,4890,"Queensland"
-"Mar",1990,6762,"South Australia"
-"Jun",1990,7064,"Western Australia"
-"Sep",1990,6011,"Tasmania"
-"Dec",1990,5710,"Northern Territory"
-"Mar",1991,6377,"Australian Capital Territory"
-"Jun",1991,6949,"New South Wales"
-"Sep",1991,5929,"Victoria"
-"Dec",1991,6086,"Queensland"
-"Mar",1992,7046,"South Australia"
-"Jun",1992,6785,"Western Australia"
-"Sep",1992,5806,"Tasmania"
-"Dec",1992,6301,"Northern Territory"
-"Mar",1993,7057,"Australian Capital Territory"
-"Jun",1993,6905,"New South Wales"
-"Sep",1993,6503,"Victoria"
-"Dec",1993,6378,"Queensland"
-"Mar",1994,6803,"South Australia"
-"Jun",1994,6501,"Western Australia"
-"Sep",1994,5616,"Tasmania"
-"Dec",1994,6446,"Northern Territory"
-"Mar",1995,7243,"Australian Capital Territory"
-"Jun",1995,6749,"New South Wales"
-"Sep",1995,6248,"Victoria"
-"Dec",1995,6047,"Queensland"
-"Mar",1996,6658,"South Australia"
-"Jun",1996,6348,"Western Australia"
-"Sep",1996,5575,"Tasmania"
-"Dec",1996,6114,"Northern Territory"
-"Mar",1997,6527,"Australian Capital Territory"
-"Jun",1997,7370,"New South Wales"
-"Sep",1997,5750,"Victoria"
-"Dec",1997,5754,"Queensland"
-"Mar",1998,6635,"South Australia"
-"Jun",1998,6508,"Western Australia"
-"Sep",1998,5821,"Tasmania"
-"Dec",1998,5675,"Northern Territory"
-"Mar",1999,6818,"Australian Capital Territory"
-"Jun",1999,6122,"New South Wales"
-"Sep",1999,5774,"Victoria"
-"Dec",1999,5843,"Queensland"
-"Mar",2000,7000,"South Australia"
-"Jun",2000,6035,"Western Australia"
-"Sep",2000,6012,"Tasmania"
-"Dec",2000,6055,"Northern Territory"
-"Mar",2001,6724,"Australian Capital Territory"
-"Jun",2001,6597,"New South Wales"
-"Sep",2001,6235,"Victoria"
-"Dec",2001,5842,"Queensland"
-"Mar",2002,6471,"South Australia"
-"Jun",2002,6306,"Western Australia"
-"Sep",2002,5268,"Tasmania"
-"Dec",2002,5756,"Northern Territory"
-"Mar",2003,6667,"Australian Capital Territory"
-"Jun",2003,6644,"New South Wales"
-"Sep",2003,5992,"Victoria"
-"Dec",2003,6439,"Queensland"
-"Mar",2004,6747,"South Australia"
-"Jun",2004,6123,"Western Australia"
-"Sep",2004,6282,"Tasmania"
-"Dec",2004,5946,"Northern Territory"
-"Mar",2005,7736,"Australian Capital Territory"
-"Jun",2005,8103,"New South Wales"
-"Sep",2005,7193,"Victoria"
-"Dec",2005,7038,"Queensland"
-"Mar",2006,7851,"South Australia"
-"Jun",2006,7497,"Western Australia"
-"Sep",2006,7836,"Tasmania"
-"Dec",2006,7731,"Northern Territory"
-"Mar",2007,8927,"Australian Capital Territory"
-"Jun",2007,8649,"New South Wales"
-"Sep",2007,8511,"Victoria"
-"Dec",2007,8441,"Queensland"
-"Mar",2008,9382,"South Australia"
-"Jun",2008,9224,"Western Australia"
-"Sep",2008,8487,"Tasmania"
-"Dec",2008,8940,"Northern Territory"
-"Mar",2009,9695,"Australian Capital Territory"
-"Jun",2009,9397,"New South Wales"
-"Sep",2009,8739,"Victoria"
-"Dec",2009,8697,"Queensland"
-"Mar",2010,9767,"South Australia"
-"Jun",2010,9395,"Western Australia"
-"Sep",2010,8880,"Tasmania"
-"Dec",2010,8240,"Northern Territory"
-"Mar",2011,9503,"Australian Capital Territory"
-"Jun",2011,9181,"New South Wales"
-"Sep",2011,7918,"Victoria"
-"Dec",2011,8353,"Queensland"
-"Mar",2012,10084,"South Australia"
-"Jun",2012,9078,"Western Australia"
-"Sep",2012,8099,"Tasmania"
-"Dec",2012,9176,"Northern Territory"
-"Mar",2013,9423,"Australian Capital Territory"
-"Jun",2013,8829,"New South Wales"
-"Sep",2013,8752,"Victoria"
-"Dec",2013,8444,"Queensland"
-"Mar",2014,9665,"South Australia"
-"Jun",2014,8760,"Western Australia"
-"Sep",2014,8153,"Tasmania"
-"Dec",2014,8375,"Northern Territory"
-"Mar",2015,8412,"Australian Capital Territory"
-"Jun",2015,8177,"New South Wales"
-"Sep",2015,7576,"Victoria"
-"Dec",2015,7410,"Queensland"
-"Mar",2016,9012,"South Australia"
-"Jun",2016,8388,"Western Australia"
-"Sep",2016,7657,"Tasmania"
-"Dec",2016,7296,"Northern Territory"
-"Mar",2017,7949,"Australian Capital Territory"
-"Jun",2017,7705,"New South Wales"
-"Sep",2017,6696,"Victoria"
-"Dec",2017,6754,"Queensland"
-"Mar",2018,8262,"South Australia"
-"Jun",2018,7644,"Western Australia"
-"Sep",2018,6959,"Tasmania"
-"Dec",2018,7181,"Northern Territory"
-"Mar",2019,7908,"Australian Capital Territory"
-"Jun",2019,7832,"New South Wales"
-"Sep",2019,6416,"Victoria"
-"Dec",2019,6808,"Queensland"
-"Mar",2020,7273,"South Australia"
-"Jun",2020,7542,"Western Australia"
-"Sep",2020,6978,"Tasmania"
-"Dec",2020,6303,"Northern Territory"
-"Mar",2021,8517,"Australian Capital Territory"
-"Jun",2021,7736,"New South Wales"
-"Sep",2021,6998,"Victoria"
-"Dec",2021,6524,"Queensland"
-"Mar",2022,6764,"South Australia"
-"Jun",2022,6439,"Western Australia"
-"Sep",2022,4923,"Tasmania"
-"Dec",2022,5223,"Northern Territory"
-"Mar",2023,5720,"Australian Capital Territory"
-"Jun",2023,5402,"New South Wales"
-"Sep",2023,5735,"Victoria"
-"Dec",2023,4405,"Queensland"
-"Mar",2024,5330,"South Australia"
-"Jun",1981,2474,"Western Australia"
-"Sep",1981,2155,"Tasmania"
-"Dec",1981,2359,"Northern Territory"
-"Mar",1982,2374,"Australian Capital Territory"
-"Jun",1982,2294,"New South Wales"
-"Sep",1982,1886,"Victoria"
-"Dec",1982,2197,"Queensland"
-"Mar",1983,2619,"South Australia"
-"Jun",1983,2404,"Western Australia"
-"Sep",1983,2261,"Tasmania"
-"Dec",1983,2677,"Northern Territory"
-"Mar",1984,2801,"Australian Capital Territory"
-"Jun",1984,2580,"New South Wales"
-"Sep",1984,2356,"Victoria"
-"Dec",1984,2215,"Queensland"
-"Mar",1985,2566,"South Australia"
-"Jun",1985,2560,"Western Australia"
-"Sep",1985,1693,"Tasmania"
-"Dec",1985,2476,"Northern Territory"
-"Mar",1986,2548,"Australian Capital Territory"
-"Jun",1986,2513,"New South Wales"
-"Sep",1986,2089,"Victoria"
-"Dec",1986,2263,"Queensland"
-"Mar",1987,2566,"South Australia"
-"Jun",1987,2133,"Western Australia"
-"Sep",1987,2031,"Tasmania"
-"Dec",1987,1974,"Northern Territory"
-"Mar",1988,2252,"Australian Capital Territory"
-"Jun",1988,2232,"New South Wales"
-"Sep",1988,1787,"Victoria"
-"Dec",1988,2194,"Queensland"
-"Mar",1989,2581,"South Australia"
-"Jun",1989,2102,"Western Australia"
-"Sep",1989,1490,"Tasmania"
-"Dec",1989,2089,"Northern Territory"
-"Mar",1990,2457,"Australian Capital Territory"
-"Jun",1990,2217,"New South Wales"
-"Sep",1990,1998,"Victoria"
-"Dec",1990,2253,"Queensland"
-"Mar",1991,2545,"South Australia"
-"Jun",1991,1971,"Western Australia"
-"Sep",1991,1908,"Tasmania"
-"Dec",1991,2095,"Northern Territory"
-"Mar",1992,2544,"Australian Capital Territory"
-"Jun",1992,2048,"New South Wales"
-"Sep",1992,1833,"Victoria"
-"Dec",1992,2088,"Queensland"
-"Mar",1993,2249,"South Australia"
-"Jun",1993,2298,"Western Australia"
-"Sep",1993,1910,"Tasmania"
-"Dec",1993,1826,"Northern Territory"
-"Mar",1994,2393,"Australian Capital Territory"
-"Jun",1994,1878,"New South Wales"
-"Sep",1994,1572,"Victoria"
-"Dec",1994,1958,"Queensland"
-"Mar",1995,2440,"South Australia"
-"Jun",1995,1983,"Western Australia"
-"Sep",1995,1839,"Tasmania"
-"Dec",1995,1669,"Northern Territory"
-"Mar",1996,2212,"Australian Capital Territory"
-"Jun",1996,1780,"New South Wales"
-"Sep",1996,1432,"Victoria"
-"Dec",1996,1796,"Queensland"
-"Mar",1997,2051,"South Australia"
-"Jun",1997,1672,"Western Australia"
-"Sep",1997,1407,"Tasmania"
-"Dec",1997,1650,"Northern Territory"
-"Mar",1998,2074,"Australian Capital Territory"
-"Jun",1998,1471,"New South Wales"
-"Sep",1998,1279,"Victoria"
-"Dec",1998,1720,"Queensland"
-"Mar",1999,2100,"South Australia"
-"Jun",1999,1652,"Western Australia"
-"Sep",1999,1419,"Tasmania"
-"Dec",1999,1611,"Northern Territory"
-"Mar",2000,1828,"Australian Capital Territory"
-"Jun",2000,1448,"New South Wales"
-"Sep",2000,1147,"Victoria"
-"Dec",2000,1385,"Queensland"
-"Mar",2001,1691,"South Australia"
-"Jun",2001,1272,"Western Australia"
-"Sep",2001,1316,"Tasmania"
-"Dec",2001,1195,"Northern Territory"
-"Mar",2002,1876,"Australian Capital Territory"
-"Jun",2002,1407,"New South Wales"
-"Sep",2002,1060,"Victoria"
-"Dec",2002,1254,"Queensland"
-"Mar",2003,1528,"South Australia"
-"Jun",2003,1401,"Western Australia"
-"Sep",2003,1153,"Tasmania"
-"Dec",2003,1408,"Northern Territory"
-"Mar",2004,1489,"Australian Capital Territory"
-"Jun",2004,1358,"New South Wales"
-"Sep",2004,1078,"Victoria"
-"Dec",2004,1386,"Queensland"
-"Mar",2005,1879,"South Australia"
-"Jun",2005,1536,"Western Australia"
-"Sep",2005,1181,"Tasmania"
-"Dec",2005,1471,"Northern Territory"
-"Mar",2006,1868,"Australian Capital Territory"
-"Jun",2006,1338,"New South Wales"
-"Sep",2006,1652,"Victoria"
-"Dec",2006,1592,"Queensland"
-"Mar",2007,2176,"South Australia"
-"Jun",2007,1628,"Western Australia"
-"Sep",2007,1558,"Tasmania"
-"Dec",2007,1975,"Northern Territory"
-"Mar",2008,2131,"Australian Capital Territory"
-"Jun",2008,1669,"New South Wales"
-"Sep",2008,1621,"Victoria"
-"Dec",2008,1758,"Queensland"
-"Mar",2009,1987,"South Australia"
-"Jun",2009,1835,"Western Australia"
-"Sep",2009,1707,"Tasmania"
-"Dec",2009,1757,"Northern Territory"
-"Mar",2010,2169,"Australian Capital Territory"
-"Jun",2010,1823,"New South Wales"
-"Sep",2010,1535,"Victoria"
-"Dec",2010,1616,"Queensland"
-"Mar",2011,2083,"South Australia"
-"Jun",2011,1836,"Western Australia"
-"Sep",2011,1753,"Tasmania"
-"Dec",2011,1829,"Northern Territory"
-"Mar",2012,2094,"Australian Capital Territory"
-"Jun",2012,1818,"New South Wales"
-"Sep",2012,1537,"Victoria"
-"Dec",2012,1920,"Queensland"
-"Mar",2013,2138,"South Australia"
-"Jun",2013,1768,"Western Australia"
-"Sep",2013,1521,"Tasmania"
-"Dec",2013,1655,"Northern Territory"
-"Mar",2014,2140,"Australian Capital Territory"
-"Jun",2014,1876,"New South Wales"
-"Sep",2014,1380,"Victoria"
-"Dec",2014,1756,"Queensland"
-"Mar",2015,1795,"South Australia"
-"Jun",2015,1541,"Western Australia"
-"Sep",2015,1205,"Tasmania"
-"Dec",2015,1671,"Northern Territory"
-"Mar",2016,1970,"Australian Capital Territory"
-"Jun",2016,1693,"New South Wales"
-"Sep",2016,1370,"Victoria"
-"Dec",2016,1283,"Queensland"
-"Mar",2017,1726,"South Australia"
-"Jun",2017,1304,"Western Australia"
-"Sep",2017,922,"Tasmania"
-"Dec",2017,1110,"Northern Territory"
-"Mar",2018,1736,"Australian Capital Territory"
-"Jun",2018,1263,"New South Wales"
-"Sep",2018,982,"Victoria"
-"Dec",2018,1379,"Queensland"
-"Mar",2019,1502,"South Australia"
-"Jun",2019,1108,"Western Australia"
-"Sep",2019,1183,"Tasmania"
-"Dec",2019,1203,"Northern Territory"
-"Mar",2020,1317,"Australian Capital Territory"
-"Jun",2020,1115,"New South Wales"
-"Sep",2020,968,"Victoria"
-"Dec",2020,1110,"Queensland"
-"Mar",2021,1863,"South Australia"
-"Jun",2021,1419,"Western Australia"
-"Sep",2021,950,"Tasmania"
-"Dec",2021,1129,"Northern Territory"
-"Mar",2022,1243,"Australian Capital Territory"
-"Jun",2022,739,"New South Wales"
-"Sep",2022,626,"Victoria"
-"Dec",2022,760,"Queensland"
-"Mar",2023,944,"South Australia"
-"Jun",2023,526,"Western Australia"
-"Sep",2023,718,"Tasmania"
-"Dec",2023,783,"Northern Territory"
-"Mar",2024,894,"Australian Capital Territory"
-"Jun",1981,3579,"New South Wales"
-"Sep",1981,3379,"Victoria"
-"Dec",1981,3375,"Queensland"
-"Mar",1982,3639,"South Australia"
-"Jun",1982,3751,"Western Australia"
-"Sep",1982,3330,"Tasmania"
-"Dec",1982,3340,"Northern Territory"
-"Mar",1983,3685,"Australian Capital Territory"
-"Jun",1983,3961,"New South Wales"
-"Sep",1983,3324,"Victoria"
-"Dec",1983,3748,"Queensland"
-"Mar",1984,3449,"South Australia"
-"Jun",1984,3390,"Western Australia"
-"Sep",1984,3627,"Tasmania"
-"Dec",1984,2657,"Northern Territory"
-"Mar",1985,3776,"Australian Capital Territory"
-"Jun",1985,4155,"New South Wales"
-"Sep",1985,3073,"Victoria"
-"Dec",1985,3268,"Queensland"
-"Mar",1986,3774,"South Australia"
-"Jun",1986,4177,"Western Australia"
-"Sep",1986,3448,"Tasmania"
-"Dec",1986,3530,"Northern Territory"
-"Mar",1987,3442,"Australian Capital Territory"
-"Jun",1987,4251,"New South Wales"
-"Sep",1987,3706,"Victoria"
-"Dec",1987,3053,"Queensland"
-"Mar",1988,4546,"South Australia"
-"Jun",1988,3835,"Western Australia"
-"Sep",1988,3545,"Tasmania"
-"Dec",1988,3685,"Northern Territory"
-"Mar",1989,3881,"Australian Capital Territory"
-"Jun",1989,4242,"New South Wales"
-"Sep",1989,3694,"Victoria"
-"Dec",1989,3691,"Queensland"
-"Mar",1990,4365,"South Australia"
-"Jun",1990,4023,"Western Australia"
-"Sep",1990,3923,"Tasmania"
-"Dec",1990,3638,"Northern Territory"
-"Mar",1991,4202,"Australian Capital Territory"
-"Jun",1991,4401,"New South Wales"
-"Sep",1991,3670,"Victoria"
-"Dec",1991,3624,"Queensland"
-"Mar",1992,4049,"South Australia"
-"Jun",1992,3927,"Western Australia"
-"Sep",1992,3637,"Tasmania"
-"Dec",1992,3432,"Northern Territory"
-"Mar",1993,3905,"Australian Capital Territory"
-"Jun",1993,3830,"New South Wales"
-"Sep",1993,3442,"Victoria"
-"Dec",1993,3467,"Queensland"
-"Mar",1994,3919,"South Australia"
-"Jun",1994,3671,"Western Australia"
-"Sep",1994,3571,"Tasmania"
-"Dec",1994,3488,"Northern Territory"
-"Mar",1995,4133,"Australian Capital Territory"
-"Jun",1995,3602,"New South Wales"
-"Sep",1995,3498,"Victoria"
-"Dec",1995,3181,"Queensland"
-"Mar",1996,3699,"South Australia"
-"Jun",1996,3575,"Western Australia"
-"Sep",1996,3242,"Tasmania"
-"Dec",1996,3464,"Northern Territory"
-"Mar",1997,3923,"Australian Capital Territory"
-"Jun",1997,3529,"New South Wales"
-"Sep",1997,2970,"Victoria"
-"Dec",1997,3253,"Queensland"
-"Mar",1998,3761,"South Australia"
-"Jun",1998,3732,"Western Australia"
-"Sep",1998,3408,"Tasmania"
-"Dec",1998,3558,"Northern Territory"
-"Mar",1999,3688,"Australian Capital Territory"
-"Jun",1999,3855,"New South Wales"
-"Sep",1999,3159,"Victoria"
-"Dec",1999,3547,"Queensland"
-"Mar",2000,3791,"South Australia"
-"Jun",2000,3332,"Western Australia"
-"Sep",2000,3538,"Tasmania"
-"Dec",2000,3352,"Northern Territory"
-"Mar",2001,3705,"Australian Capital Territory"
-"Jun",2001,3371,"New South Wales"
-"Sep",2001,3228,"Victoria"
-"Dec",2001,3164,"Queensland"
-"Mar",2002,3614,"South Australia"
-"Jun",2002,3227,"Western Australia"
-"Sep",2002,2852,"Tasmania"
-"Dec",2002,3226,"Northern Territory"
-"Mar",2003,3347,"Australian Capital Territory"
-"Jun",2003,3439,"New South Wales"
-"Sep",2003,2804,"Victoria"
-"Dec",2003,2890,"Queensland"
-"Mar",2004,3850,"South Australia"
-"Jun",2004,3570,"Western Australia"
-"Sep",2004,3147,"Tasmania"
-"Dec",2004,3301,"Northern Territory"
-"Mar",2005,4033,"Australian Capital Territory"
-"Jun",2005,3792,"New South Wales"
-"Sep",2005,3568,"Victoria"
-"Dec",2005,3592,"Queensland"
-"Mar",2006,4144,"South Australia"
-"Jun",2006,3881,"Western Australia"
-"Sep",2006,4325,"Tasmania"
-"Dec",2006,4097,"Northern Territory"
-"Mar",2007,4626,"Australian Capital Territory"
-"Jun",2007,4287,"New South Wales"
-"Sep",2007,4192,"Victoria"
-"Dec",2007,4387,"Queensland"
-"Mar",2008,5026,"South Australia"
-"Jun",2008,4551,"Western Australia"
-"Sep",2008,4203,"Tasmania"
-"Dec",2008,4385,"Northern Territory"
-"Mar",2009,4806,"Australian Capital Territory"
-"Jun",2009,4828,"New South Wales"
-"Sep",2009,4538,"Victoria"
-"Dec",2009,4535,"Queensland"
-"Mar",2010,5078,"South Australia"
-"Jun",2010,4783,"Western Australia"
-"Sep",2010,4503,"Tasmania"
-"Dec",2010,4272,"Northern Territory"
-"Mar",2011,5296,"Australian Capital Territory"
-"Jun",2011,5057,"New South Wales"
-"Sep",2011,4659,"Victoria"
-"Dec",2011,4581,"Queensland"
-"Mar",2012,5470,"South Australia"
-"Jun",2012,5260,"Western Australia"
-"Sep",2012,4667,"Tasmania"
-"Dec",2012,5423,"Northern Territory"
-"Mar",2013,5655,"Australian Capital Territory"
-"Jun",2013,5306,"New South Wales"
-"Sep",2013,5000,"Victoria"
-"Dec",2013,5115,"Queensland"
-"Mar",2014,5699,"South Australia"
-"Jun",2014,5494,"Western Australia"
-"Sep",2014,5159,"Tasmania"
-"Dec",2014,5298,"Northern Territory"
-"Mar",2015,5501,"Australian Capital Territory"
-"Jun",2015,5138,"New South Wales"
-"Sep",2015,4880,"Victoria"
-"Dec",2015,5205,"Queensland"
-"Mar",2016,5821,"South Australia"
-"Jun",2016,5456,"Western Australia"
-"Sep",2016,4731,"Tasmania"
-"Dec",2016,4953,"Northern Territory"
-"Mar",2017,5260,"Australian Capital Territory"
-"Jun",2017,5196,"New South Wales"
-"Sep",2017,4591,"Victoria"
-"Dec",2017,4924,"Queensland"
-"Mar",2018,5140,"South Australia"
-"Jun",2018,4653,"Western Australia"
-"Sep",2018,4379,"Tasmania"
-"Dec",2018,4612,"Northern Territory"
-"Mar",2019,4644,"Australian Capital Territory"
-"Jun",2019,4410,"New South Wales"
-"Sep",2019,4495,"Victoria"
-"Dec",2019,4808,"Queensland"
-"Mar",2020,4653,"South Australia"
-"Jun",2020,4250,"Western Australia"
-"Sep",2020,4203,"Tasmania"
-"Dec",2020,4032,"Northern Territory"
-"Mar",2021,5127,"Australian Capital Territory"
-"Jun",2021,4717,"New South Wales"
-"Sep",2021,4238,"Victoria"
-"Dec",2021,4510,"Queensland"
-"Mar",2022,4411,"South Australia"
-"Jun",2022,3594,"Western Australia"
-"Sep",2022,3482,"Tasmania"
-"Dec",2022,3516,"Northern Territory"
-"Mar",2023,3521,"Australian Capital Territory"
-"Jun",2023,3214,"New South Wales"
-"Sep",2023,4336,"Victoria"
-"Dec",2023,2904,"Queensland"
-"Mar",2024,3630,"South Australia"
-"Jun",1981,962,"Western Australia"
-"Sep",1981,927,"Tasmania"
-"Dec",1981,880,"Northern Territory"
-"Mar",1982,1075,"Australian Capital Territory"
-"Jun",1982,887,"New South Wales"
-"Sep",1982,844,"Victoria"
-"Dec",1982,789,"Queensland"
-"Mar",1983,1001,"South Australia"
-"Jun",1983,973,"Western Australia"
-"Sep",1983,938,"Tasmania"
-"Dec",1983,831,"Northern Territory"
-"Mar",1984,968,"Australian Capital Territory"
-"Jun",1984,928,"New South Wales"
-"Sep",1984,813,"Victoria"
-"Dec",1984,828,"Queensland"
-"Mar",1985,1067,"South Australia"
-"Jun",1985,870,"Western Australia"
-"Sep",1985,829,"Tasmania"
-"Dec",1985,789,"Northern Territory"
-"Mar",1986,836,"Australian Capital Territory"
-"Jun",1986,864,"New South Wales"
-"Sep",1986,904,"Victoria"
-"Dec",1986,892,"Queensland"
-"Mar",1987,891,"South Australia"
-"Jun",1987,828,"Western Australia"
-"Sep",1987,728,"Tasmania"
-"Dec",1987,706,"Northern Territory"
-"Mar",1988,791,"Australian Capital Territory"
-"Jun",1988,830,"New South Wales"
-"Sep",1988,677,"Victoria"
-"Dec",1988,934,"Queensland"
-"Mar",1989,805,"South Australia"
-"Jun",1989,775,"Western Australia"
-"Sep",1989,725,"Tasmania"
-"Dec",1989,818,"Northern Territory"
-"Mar",1990,934,"Australian Capital Territory"
-"Jun",1990,875,"New South Wales"
-"Sep",1990,688,"Victoria"
-"Dec",1990,833,"Queensland"
-"Mar",1991,858,"South Australia"
-"Jun",1991,881,"Western Australia"
-"Sep",1991,739,"Tasmania"
-"Dec",1991,791,"Northern Territory"
-"Mar",1992,929,"Australian Capital Territory"
-"Jun",1992,767,"New South Wales"
-"Sep",1992,723,"Victoria"
-"Dec",1992,835,"Queensland"
-"Mar",1993,830,"South Australia"
-"Jun",1993,750,"Western Australia"
-"Sep",1993,761,"Tasmania"
-"Dec",1993,843,"Northern Territory"
-"Mar",1994,824,"Australian Capital Territory"
-"Jun",1994,688,"New South Wales"
-"Sep",1994,617,"Victoria"
-"Dec",1994,845,"Queensland"
-"Mar",1995,792,"South Australia"
-"Jun",1995,722,"Western Australia"
-"Sep",1995,714,"Tasmania"
-"Dec",1995,583,"Northern Territory"
-"Mar",1996,713,"Australian Capital Territory"
-"Jun",1996,511,"New South Wales"
-"Sep",1996,633,"Victoria"
-"Dec",1996,654,"Queensland"
-"Mar",1997,640,"South Australia"
-"Jun",1997,517,"Western Australia"
-"Sep",1997,433,"Tasmania"
-"Dec",1997,547,"Northern Territory"
-"Mar",1998,625,"Australian Capital Territory"
-"Jun",1998,499,"New South Wales"
-"Sep",1998,605,"Victoria"
-"Dec",1998,660,"Queensland"
-"Mar",1999,680,"South Australia"
-"Jun",1999,713,"Western Australia"
-"Sep",1999,512,"Tasmania"
-"Dec",1999,518,"Northern Territory"
-"Mar",2000,569,"Australian Capital Territory"
-"Jun",2000,490,"New South Wales"
-"Sep",2000,476,"Victoria"
-"Dec",2000,563,"Queensland"
-"Mar",2001,589,"South Australia"
-"Jun",2001,419,"Western Australia"
-"Sep",2001,386,"Tasmania"
-"Dec",2001,534,"Northern Territory"
-"Mar",2002,583,"Australian Capital Territory"
-"Jun",2002,479,"New South Wales"
-"Sep",2002,480,"Victoria"
-"Dec",2002,431,"Queensland"
-"Mar",2003,487,"South Australia"
-"Jun",2003,351,"Western Australia"
-"Sep",2003,377,"Tasmania"
-"Dec",2003,576,"Northern Territory"
-"Mar",2004,468,"Australian Capital Territory"
-"Jun",2004,309,"New South Wales"
-"Sep",2004,520,"Victoria"
-"Dec",2004,520,"Queensland"
-"Mar",2005,549,"South Australia"
-"Jun",2005,550,"Western Australia"
-"Sep",2005,585,"Tasmania"
-"Dec",2005,712,"Northern Territory"
-"Mar",2006,748,"Australian Capital Territory"
-"Jun",2006,382,"New South Wales"
-"Sep",2006,753,"Victoria"
-"Dec",2006,802,"Queensland"
-"Mar",2007,651,"South Australia"
-"Jun",2007,582,"Western Australia"
-"Sep",2007,582,"Tasmania"
-"Dec",2007,638,"Northern Territory"
-"Mar",2008,735,"Australian Capital Territory"
-"Jun",2008,640,"New South Wales"
-"Sep",2008,548,"Victoria"
-"Dec",2008,706,"Queensland"
-"Mar",2009,672,"South Australia"
-"Jun",2009,673,"Western Australia"
-"Sep",2009,593,"Tasmania"
-"Dec",2009,588,"Northern Territory"
-"Mar",2010,618,"Australian Capital Territory"
-"Jun",2010,510,"New South Wales"
-"Sep",2010,494,"Victoria"
-"Dec",2010,535,"Queensland"
-"Mar",2011,671,"South Australia"
-"Jun",2011,502,"Western Australia"
-"Sep",2011,563,"Tasmania"
-"Dec",2011,564,"Northern Territory"
-"Mar",2012,508,"Australian Capital Territory"
-"Jun",2012,431,"New South Wales"
-"Sep",2012,359,"Victoria"
-"Dec",2012,408,"Queensland"
-"Mar",2013,489,"South Australia"
-"Jun",2013,392,"Western Australia"
-"Sep",2013,391,"Tasmania"
-"Dec",2013,391,"Northern Territory"
-"Mar",2014,507,"Australian Capital Territory"
-"Jun",2014,251,"New South Wales"
-"Sep",2014,332,"Victoria"
-"Dec",2014,330,"Queensland"
-"Mar",2015,400,"South Australia"
-"Jun",2015,267,"Western Australia"
-"Sep",2015,117,"Tasmania"
-"Dec",2015,248,"Northern Territory"
-"Mar",2016,499,"Australian Capital Territory"
-"Jun",2016,330,"New South Wales"
-"Sep",2016,242,"Victoria"
-"Dec",2016,214,"Queensland"
-"Mar",2017,279,"South Australia"
-"Jun",2017,295,"Western Australia"
-"Sep",2017,-82,"Tasmania"
-"Dec",2017,213,"Northern Territory"
-"Mar",2018,387,"Australian Capital Territory"
-"Jun",2018,185,"New South Wales"
-"Sep",2018,237,"Victoria"
-"Dec",2018,312,"Queensland"
-"Mar",2019,314,"South Australia"
-"Jun",2019,221,"Western Australia"
-"Sep",2019,193,"Tasmania"
-"Dec",2019,285,"Northern Territory"
-"Mar",2020,320,"Australian Capital Territory"
-"Jun",2020,312,"New South Wales"
-"Sep",2020,276,"Victoria"
-"Dec",2020,222,"Queensland"
-"Mar",2021,381,"South Australia"
-"Jun",2021,300,"Western Australia"
-"Sep",2021,180,"Tasmania"
-"Dec",2021,247,"Northern Territory"
-"Mar",2022,224,"Australian Capital Territory"
-"Jun",2022,186,"New South Wales"
-"Sep",2022,66,"Victoria"
-"Dec",2022,188,"Queensland"
-"Mar",2023,249,"South Australia"
-"Jun",2023,17,"Western Australia"
-"Sep",2023,91,"Tasmania"
-"Dec",2023,97,"Northern Territory"
-"Mar",2024,116,"Australian Capital Territory"
-"Jun",1981,733,"New South Wales"
-"Sep",1981,510,"Victoria"
-"Dec",1981,664,"Queensland"
-"Mar",1982,675,"South Australia"
-"Jun",1982,529,"Western Australia"
-"Sep",1982,617,"Tasmania"
-"Dec",1982,531,"Northern Territory"
-"Mar",1983,676,"Australian Capital Territory"
-"Jun",1983,606,"New South Wales"
-"Sep",1983,488,"Victoria"
-"Dec",1983,630,"Queensland"
-"Mar",1984,744,"South Australia"
-"Jun",1984,670,"Western Australia"
-"Sep",1984,567,"Tasmania"
-"Dec",1984,663,"Northern Territory"
-"Mar",1985,702,"Australian Capital Territory"
-"Jun",1985,570,"New South Wales"
-"Sep",1985,723,"Victoria"
-"Dec",1985,679,"Queensland"
-"Mar",1986,719,"South Australia"
-"Jun",1986,674,"Western Australia"
-"Sep",1986,685,"Tasmania"
-"Dec",1986,576,"Northern Territory"
-"Mar",1987,822,"Australian Capital Territory"
-"Jun",1987,619,"New South Wales"
-"Sep",1987,750,"Victoria"
-"Dec",1987,662,"Queensland"
-"Mar",1988,614,"South Australia"
-"Jun",1988,729,"Western Australia"
-"Sep",1988,560,"Tasmania"
-"Dec",1988,660,"Northern Territory"
-"Mar",1989,545,"Australian Capital Territory"
-"Jun",1989,733,"New South Wales"
-"Sep",1989,611,"Victoria"
-"Dec",1989,703,"Queensland"
-"Mar",1990,639,"South Australia"
-"Jun",1990,752,"Western Australia"
-"Sep",1990,767,"Tasmania"
-"Dec",1990,617,"Northern Territory"
-"Mar",1991,670,"Australian Capital Territory"
-"Jun",1991,789,"New South Wales"
-"Sep",1991,688,"Victoria"
-"Dec",1991,644,"Queensland"
-"Mar",1992,736,"South Australia"
-"Jun",1992,858,"Western Australia"
-"Sep",1992,668,"Tasmania"
-"Dec",1992,706,"Northern Territory"
-"Mar",1993,741,"Australian Capital Territory"
-"Jun",1993,742,"New South Wales"
-"Sep",1993,688,"Victoria"
-"Dec",1993,726,"Queensland"
-"Mar",1994,743,"South Australia"
-"Jun",1994,723,"Western Australia"
-"Sep",1994,642,"Tasmania"
-"Dec",1994,693,"Northern Territory"
-"Mar",1995,803,"Australian Capital Territory"
-"Jun",1995,744,"New South Wales"
-"Sep",1995,754,"Victoria"
-"Dec",1995,626,"Queensland"
-"Mar",1996,718,"South Australia"
-"Jun",1996,731,"Western Australia"
-"Sep",1996,692,"Tasmania"
-"Dec",1996,629,"Northern Territory"
-"Mar",1997,707,"Australian Capital Territory"
-"Jun",1997,705,"New South Wales"
-"Sep",1997,684,"Victoria"
-"Dec",1997,648,"Queensland"
-"Mar",1998,755,"South Australia"
-"Jun",1998,738,"Western Australia"
-"Sep",1998,609,"Tasmania"
-"Dec",1998,597,"Northern Territory"
-"Mar",1999,742,"Australian Capital Territory"
-"Jun",1999,801,"New South Wales"
-"Sep",1999,637,"Victoria"
-"Dec",1999,599,"Queensland"
-"Mar",2000,744,"South Australia"
-"Jun",2000,742,"Western Australia"
-"Sep",2000,643,"Tasmania"
-"Dec",2000,654,"Northern Territory"
-"Mar",2001,763,"Australian Capital Territory"
-"Jun",2001,792,"New South Wales"
-"Sep",2001,693,"Victoria"
-"Dec",2001,681,"Queensland"
-"Mar",2002,742,"South Australia"
-"Jun",2002,723,"Western Australia"
-"Sep",2002,716,"Tasmania"
-"Dec",2002,672,"Northern Territory"
-"Mar",2003,796,"Australian Capital Territory"
-"Jun",2003,762,"New South Wales"
-"Sep",2003,668,"Victoria"
-"Dec",2003,658,"Queensland"
-"Mar",2004,740,"South Australia"
-"Jun",2004,689,"Western Australia"
-"Sep",2004,638,"Tasmania"
-"Dec",2004,578,"Northern Territory"
-"Mar",2005,660,"Australian Capital Territory"
-"Jun",2005,682,"New South Wales"
-"Sep",2005,704,"Victoria"
-"Dec",2005,613,"Queensland"
-"Mar",2006,724,"South Australia"
-"Jun",2006,723,"Western Australia"
-"Sep",2006,650,"Tasmania"
-"Dec",2006,673,"Northern Territory"
-"Mar",2007,762,"Australian Capital Territory"
-"Jun",2007,737,"New South Wales"
-"Sep",2007,665,"Victoria"
-"Dec",2007,706,"Queensland"
-"Mar",2008,736,"South Australia"
-"Jun",2008,743,"Western Australia"
-"Sep",2008,720,"Tasmania"
-"Dec",2008,620,"Northern Territory"
-"Mar",2009,744,"Australian Capital Territory"
-"Jun",2009,806,"New South Wales"
-"Sep",2009,714,"Victoria"
-"Dec",2009,719,"Queensland"
-"Mar",2010,762,"South Australia"
-"Jun",2010,769,"Western Australia"
-"Sep",2010,704,"Tasmania"
-"Dec",2010,668,"Northern Territory"
-"Mar",2011,745,"Australian Capital Territory"
-"Jun",2011,828,"New South Wales"
-"Sep",2011,722,"Victoria"
-"Dec",2011,614,"Queensland"
-"Mar",2012,800,"South Australia"
-"Jun",2012,858,"Western Australia"
-"Sep",2012,717,"Tasmania"
-"Dec",2012,664,"Northern Territory"
-"Mar",2013,757,"Australian Capital Territory"
-"Jun",2013,804,"New South Wales"
-"Sep",2013,678,"Victoria"
-"Dec",2013,697,"Queensland"
-"Mar",2014,720,"South Australia"
-"Jun",2014,769,"Western Australia"
-"Sep",2014,643,"Tasmania"
-"Dec",2014,660,"Northern Territory"
-"Mar",2015,763,"Australian Capital Territory"
-"Jun",2015,791,"New South Wales"
-"Sep",2015,674,"Victoria"
-"Dec",2015,623,"Queensland"
-"Mar",2016,754,"South Australia"
-"Jun",2016,786,"Western Australia"
-"Sep",2016,690,"Tasmania"
-"Dec",2016,700,"Northern Territory"
-"Mar",2017,687,"Australian Capital Territory"
-"Jun",2017,784,"New South Wales"
-"Sep",2017,604,"Victoria"
-"Dec",2017,621,"Queensland"
-"Mar",2018,671,"South Australia"
-"Jun",2018,718,"Western Australia"
-"Sep",2018,625,"Tasmania"
-"Dec",2018,584,"Northern Territory"
-"Mar",2019,673,"Australian Capital Territory"
-"Jun",2019,642,"New South Wales"
-"Sep",2019,597,"Victoria"
-"Dec",2019,550,"Queensland"
-"Mar",2020,655,"South Australia"
-"Jun",2020,698,"Western Australia"
-"Sep",2020,604,"Tasmania"
-"Dec",2020,580,"Northern Territory"
-"Mar",2021,755,"Australian Capital Territory"
-"Jun",2021,712,"New South Wales"
-"Sep",2021,537,"Victoria"
-"Dec",2021,582,"Queensland"
-"Mar",2022,640,"South Australia"
-"Jun",2022,543,"Western Australia"
-"Sep",2022,557,"Tasmania"
-"Dec",2022,515,"Northern Territory"
-"Mar",2023,532,"Australian Capital Territory"
-"Jun",2023,605,"New South Wales"
-"Sep",2023,529,"Victoria"
-"Dec",2023,365,"Queensland"
-"Mar",2024,683,"South Australia"
-"Jun",1981,847,"Western Australia"
-"Sep",1981,777,"Tasmania"
-"Dec",1981,856,"Northern Territory"
-"Mar",1982,842,"Australian Capital Territory"
-"Jun",1982,786,"New South Wales"
-"Sep",1982,785,"Victoria"
-"Dec",1982,809,"Queensland"
-"Mar",1983,811,"South Australia"
-"Jun",1983,812,"Western Australia"
-"Sep",1983,795,"Tasmania"
-"Dec",1983,894,"Northern Territory"
-"Mar",1984,779,"Australian Capital Territory"
-"Jun",1984,816,"New South Wales"
-"Sep",1984,789,"Victoria"
-"Dec",1984,794,"Queensland"
-"Mar",1985,787,"South Australia"
-"Jun",1985,808,"Western Australia"
-"Sep",1985,775,"Tasmania"
-"Dec",1985,842,"Northern Territory"
-"Mar",1986,689,"Australian Capital Territory"
-"Jun",1986,802,"New South Wales"
-"Sep",1986,723,"Victoria"
-"Dec",1986,860,"Queensland"
-"Mar",1987,778,"South Australia"
-"Jun",1987,726,"Western Australia"
-"Sep",1987,773,"Tasmania"
-"Dec",1987,833,"Northern Territory"
-"Mar",1988,826,"Australian Capital Territory"
-"Jun",1988,740,"New South Wales"
-"Sep",1988,813,"Victoria"
-"Dec",1988,940,"Queensland"
-"Mar",1989,842,"South Australia"
-"Jun",1989,706,"Western Australia"
-"Sep",1989,777,"Tasmania"
-"Dec",1989,832,"Northern Territory"
-"Mar",1990,954,"Australian Capital Territory"
-"Jun",1990,811,"New South Wales"
-"Sep",1990,699,"Victoria"
-"Dec",1990,891,"Queensland"
-"Mar",1991,912,"South Australia"
-"Jun",1991,961,"Western Australia"
-"Sep",1991,819,"Tasmania"
-"Dec",1991,994,"Northern Territory"
-"Mar",1992,851,"Australian Capital Territory"
-"Jun",1992,781,"New South Wales"
-"Sep",1992,886,"Victoria"
-"Dec",1992,868,"Queensland"
-"Mar",1993,849,"South Australia"
-"Jun",1993,835,"Western Australia"
-"Sep",1993,790,"Tasmania"
-"Dec",1993,831,"Northern Territory"
-"Mar",1994,852,"Australian Capital Territory"
-"Jun",1994,817,"New South Wales"
-"Sep",1994,824,"Victoria"
-"Dec",1994,766,"Queensland"
-"Mar",1995,848,"South Australia"
-"Jun",1995,812,"Western Australia"
-"Sep",1995,804,"Tasmania"
-"Dec",1995,814,"Northern Territory"
-"Mar",1996,759,"Australian Capital Territory"
-"Jun",1996,685,"New South Wales"
-"Sep",1996,782,"Victoria"
-"Dec",1996,807,"Queensland"
-"Mar",1997,712,"South Australia"
-"Jun",1997,742,"Western Australia"
-"Sep",1997,646,"Tasmania"
-"Dec",1997,711,"Northern Territory"
-"Mar",1998,766,"Australian Capital Territory"
-"Jun",1998,713,"New South Wales"
-"Sep",1998,682,"Victoria"
-"Dec",1998,770,"Queensland"
-"Mar",1999,759,"South Australia"
-"Jun",1999,722,"Western Australia"
-"Sep",1999,695,"Tasmania"
-"Dec",1999,622,"Northern Territory"
-"Mar",2000,686,"Australian Capital Territory"
-"Jun",2000,793,"New South Wales"
-"Sep",2000,662,"Victoria"
-"Dec",2000,747,"Queensland"
-"Mar",2001,692,"South Australia"
-"Jun",2001,581,"Western Australia"
-"Sep",2001,618,"Tasmania"
-"Dec",2001,584,"Northern Territory"
-"Mar",2002,708,"Australian Capital Territory"
-"Jun",2002,651,"New South Wales"
-"Sep",2002,678,"Victoria"
-"Dec",2002,631,"Queensland"
-"Mar",2003,693,"South Australia"
-"Jun",2003,618,"Western Australia"
-"Sep",2003,658,"Tasmania"
-"Dec",2003,719,"Northern Territory"
-"Mar",2004,703,"Australian Capital Territory"
-"Jun",2004,595,"New South Wales"
-"Sep",2004,711,"Victoria"
-"Dec",2004,689,"Queensland"
-"Mar",2005,719,"South Australia"
-"Jun",2005,656,"Western Australia"
-"Sep",2005,679,"Tasmania"
-"Dec",2005,749,"Northern Territory"
-"Mar",2006,815,"Australian Capital Territory"
-"Jun",2006,665,"New South Wales"
-"Sep",2006,845,"Victoria"
-"Dec",2006,699,"Queensland"
-"Mar",2007,747,"South Australia"
-"Jun",2007,776,"Western Australia"
-"Sep",2007,772,"Tasmania"
-"Dec",2007,740,"Northern Territory"
-"Mar",2008,740,"Australian Capital Territory"
-"Jun",2008,711,"New South Wales"
-"Sep",2008,806,"Victoria"
-"Dec",2008,824,"Queensland"
-"Mar",2009,723,"South Australia"
-"Jun",2009,813,"Western Australia"
-"Sep",2009,885,"Tasmania"
-"Dec",2009,860,"Northern Territory"
-"Mar",2010,962,"Australian Capital Territory"
-"Jun",2010,886,"New South Wales"
-"Sep",2010,797,"Victoria"
-"Dec",2010,777,"Queensland"
-"Mar",2011,953,"South Australia"
-"Jun",2011,855,"Western Australia"
-"Sep",2011,841,"Tasmania"
-"Dec",2011,902,"Northern Territory"
-"Mar",2012,983,"Australian Capital Territory"
-"Jun",2012,838,"New South Wales"
-"Sep",2012,959,"Victoria"
-"Dec",2012,974,"Queensland"
-"Mar",2013,951,"South Australia"
-"Jun",2013,914,"Western Australia"
-"Sep",2013,996,"Tasmania"
-"Dec",2013,979,"Northern Territory"
-"Mar",2014,1007,"Australian Capital Territory"
-"Jun",2014,881,"New South Wales"
-"Sep",2014,928,"Victoria"
-"Dec",2014,978,"Queensland"
-"Mar",2015,967,"South Australia"
-"Jun",2015,946,"Western Australia"
-"Sep",2015,896,"Tasmania"
-"Dec",2015,962,"Northern Territory"
-"Mar",2016,998,"Australian Capital Territory"
-"Jun",2016,878,"New South Wales"
-"Sep",2016,912,"Victoria"
-"Dec",2016,883,"Queensland"
-"Mar",2017,941,"South Australia"
-"Jun",2017,807,"Western Australia"
-"Sep",2017,804,"Tasmania"
-"Dec",2017,813,"Northern Territory"
-"Mar",2018,834,"Australian Capital Territory"
-"Jun",2018,747,"New South Wales"
-"Sep",2018,759,"Victoria"
-"Dec",2018,826,"Queensland"
-"Mar",2019,886,"South Australia"
-"Jun",2019,820,"Western Australia"
-"Sep",2019,914,"Tasmania"
-"Dec",2019,836,"Northern Territory"
-"Mar",2020,831,"Australian Capital Territory"
-"Jun",2020,762,"New South Wales"
-"Sep",2020,787,"Victoria"
-"Dec",2020,796,"Queensland"
-"Mar",2021,969,"South Australia"
-"Jun",2021,766,"Western Australia"
-"Sep",2021,825,"Tasmania"
-"Dec",2021,896,"Northern Territory"
-"Mar",2022,853,"Australian Capital Territory"
-"Jun",2022,658,"New South Wales"
-"Sep",2022,656,"Victoria"
-"Dec",2022,621,"Queensland"
-"Mar",2023,670,"South Australia"
-"Jun",2023,697,"Western Australia"
-"Sep",2023,620,"Tasmania"
-"Dec",2023,711,"Northern Territory"
-"Mar",2024,637,"Australian Capital Territory"
+"Quarter","Year","State","Population_Increase"
+"Jun",1981,"New South Wales",11516
+"Jun",1981,"Victoria",7302
+"Jun",1981,"Queensland",6191
+"Jun",1981,"South Australia",2474
+"Jun",1981,"Western Australia",3579
+"Jun",1981,"Tasmania",-274
+"Jun",1981,"Northern Territory",733
+"Jun",1981,"Australian Capital Territory",847
+"Sep",1981,"New South Wales",9559
+"Sep",1981,"Victoria",7353
+"Sep",1981,"Queensland",4920
+"Sep",1981,"South Australia",2155
+"Sep",1981,"Western Australia",3379
+"Sep",1981,"Tasmania",-480
+"Sep",1981,"Northern Territory",510
+"Sep",1981,"Australian Capital Territory",777
+"Dec",1981,"New South Wales",9181
+"Dec",1981,"Victoria",7191
+"Dec",1981,"Queensland",4756
+"Dec",1981,"South Australia",2359
+"Dec",1981,"Western Australia",3375
+"Dec",1981,"Tasmania",-810
+"Dec",1981,"Northern Territory",664
+"Dec",1981,"Australian Capital Territory",856
+"Mar",1982,"New South Wales",11081
+"Mar",1982,"Victoria",8492
+"Mar",1982,"Queensland",6331
+"Mar",1982,"South Australia",2374
+"Mar",1982,"Western Australia",3639
+"Mar",1982,"Tasmania",-106
+"Mar",1982,"Northern Territory",675
+"Mar",1982,"Australian Capital Territory",842
+"Jun",1982,"New South Wales",11097
+"Jun",1982,"Victoria",7310
+"Jun",1982,"Queensland",6081
+"Jun",1982,"South Australia",2294
+"Jun",1982,"Western Australia",3751
+"Jun",1982,"Tasmania",-626
+"Jun",1982,"Northern Territory",529
+"Jun",1982,"Australian Capital Territory",786
+"Sep",1982,"New South Wales",8270
+"Sep",1982,"Victoria",5808
+"Sep",1982,"Queensland",4827
+"Sep",1982,"South Australia",1886
+"Sep",1982,"Western Australia",3330
+"Sep",1982,"Tasmania",-555
+"Sep",1982,"Northern Territory",617
+"Sep",1982,"Australian Capital Territory",785
+"Dec",1982,"New South Wales",10933
+"Dec",1982,"Victoria",7572
+"Dec",1982,"Queensland",5350
+"Dec",1982,"South Australia",2197
+"Dec",1982,"Western Australia",3340
+"Dec",1982,"Tasmania",-328
+"Dec",1982,"Northern Territory",531
+"Dec",1982,"Australian Capital Territory",809
+"Mar",1983,"New South Wales",12635
+"Mar",1983,"Victoria",8082
+"Mar",1983,"Queensland",6857
+"Mar",1983,"South Australia",2619
+"Mar",1983,"Western Australia",3685
+"Mar",1983,"Tasmania",-487
+"Mar",1983,"Northern Territory",676
+"Mar",1983,"Australian Capital Territory",811
+"Jun",1983,"New South Wales",10994
+"Jun",1983,"Victoria",7916
+"Jun",1983,"Queensland",6926
+"Jun",1983,"South Australia",2404
+"Jun",1983,"Western Australia",3961
+"Jun",1983,"Tasmania",156
+"Jun",1983,"Northern Territory",606
+"Jun",1983,"Australian Capital Territory",812
+"Sep",1983,"New South Wales",9047
+"Sep",1983,"Victoria",7339
+"Sep",1983,"Queensland",5906
+"Sep",1983,"South Australia",2261
+"Sep",1983,"Western Australia",3324
+"Sep",1983,"Tasmania",54
+"Sep",1983,"Northern Territory",488
+"Sep",1983,"Australian Capital Territory",795
+"Dec",1983,"New South Wales",10084
+"Dec",1983,"Victoria",7226
+"Dec",1983,"Queensland",5340
+"Dec",1983,"South Australia",2677
+"Dec",1983,"Western Australia",3748
+"Dec",1983,"Tasmania",105
+"Dec",1983,"Northern Territory",630
+"Dec",1983,"Australian Capital Territory",894
+"Mar",1984,"New South Wales",11563
+"Mar",1984,"Victoria",8542
+"Mar",1984,"Queensland",6391
+"Mar",1984,"South Australia",2801
+"Mar",1984,"Western Australia",3449
+"Mar",1984,"Tasmania",-5
+"Mar",1984,"Northern Territory",744
+"Mar",1984,"Australian Capital Territory",779
+"Jun",1984,"New South Wales",10569
+"Jun",1984,"Victoria",7489
+"Jun",1984,"Queensland",6450
+"Jun",1984,"South Australia",2580
+"Jun",1984,"Western Australia",3390
+"Jun",1984,"Tasmania",541
+"Jun",1984,"Northern Territory",670
+"Jun",1984,"Australian Capital Territory",816
+"Sep",1984,"New South Wales",8998
+"Sep",1984,"Victoria",6524
+"Sep",1984,"Queensland",5113
+"Sep",1984,"South Australia",2356
+"Sep",1984,"Western Australia",3627
+"Sep",1984,"Tasmania",106
+"Sep",1984,"Northern Territory",567
+"Sep",1984,"Australian Capital Territory",789
+"Dec",1984,"New South Wales",10004
+"Dec",1984,"Victoria",7409
+"Dec",1984,"Queensland",5097
+"Dec",1984,"South Australia",2215
+"Dec",1984,"Western Australia",2657
+"Dec",1984,"Tasmania",147
+"Dec",1984,"Northern Territory",663
+"Dec",1984,"Australian Capital Territory",794
+"Mar",1985,"New South Wales",12501
+"Mar",1985,"Victoria",8459
+"Mar",1985,"Queensland",5767
+"Mar",1985,"South Australia",2566
+"Mar",1985,"Western Australia",3776
+"Mar",1985,"Tasmania",14
+"Mar",1985,"Northern Territory",702
+"Mar",1985,"Australian Capital Territory",787
+"Jun",1985,"New South Wales",10401
+"Jun",1985,"Victoria",7877
+"Jun",1985,"Queensland",6297
+"Jun",1985,"South Australia",2560
+"Jun",1985,"Western Australia",4155
+"Jun",1985,"Tasmania",510
+"Jun",1985,"Northern Territory",570
+"Jun",1985,"Australian Capital Territory",808
+"Sep",1985,"New South Wales",7934
+"Sep",1985,"Victoria",6245
+"Sep",1985,"Queensland",4500
+"Sep",1985,"South Australia",1693
+"Sep",1985,"Western Australia",3073
+"Sep",1985,"Tasmania",-284
+"Sep",1985,"Northern Territory",723
+"Sep",1985,"Australian Capital Territory",775
+"Dec",1985,"New South Wales",10244
+"Dec",1985,"Victoria",7610
+"Dec",1985,"Queensland",5234
+"Dec",1985,"South Australia",2476
+"Dec",1985,"Western Australia",3268
+"Dec",1985,"Tasmania",21
+"Dec",1985,"Northern Territory",679
+"Dec",1985,"Australian Capital Territory",842
+"Mar",1986,"New South Wales",11629
+"Mar",1986,"Victoria",7431
+"Mar",1986,"Queensland",5512
+"Mar",1986,"South Australia",2548
+"Mar",1986,"Western Australia",3774
+"Mar",1986,"Tasmania",-26
+"Mar",1986,"Northern Territory",719
+"Mar",1986,"Australian Capital Territory",689
+"Jun",1986,"New South Wales",9623
+"Jun",1986,"Victoria",7808
+"Jun",1986,"Queensland",6533
+"Jun",1986,"South Australia",2513
+"Jun",1986,"Western Australia",4177
+"Jun",1986,"Tasmania",151
+"Jun",1986,"Northern Territory",674
+"Jun",1986,"Australian Capital Territory",802
+"Sep",1986,"New South Wales",8403
+"Sep",1986,"Victoria",7218
+"Sep",1986,"Queensland",5345
+"Sep",1986,"South Australia",2089
+"Sep",1986,"Western Australia",3448
+"Sep",1986,"Tasmania",-229
+"Sep",1986,"Northern Territory",685
+"Sep",1986,"Australian Capital Territory",723
+"Dec",1986,"New South Wales",12709
+"Dec",1986,"Victoria",7530
+"Dec",1986,"Queensland",5120
+"Dec",1986,"South Australia",2263
+"Dec",1986,"Western Australia",3530
+"Dec",1986,"Tasmania",-260
+"Dec",1986,"Northern Territory",576
+"Dec",1986,"Australian Capital Territory",860
+"Mar",1987,"New South Wales",9839
+"Mar",1987,"Victoria",8036
+"Mar",1987,"Queensland",5556
+"Mar",1987,"South Australia",2566
+"Mar",1987,"Western Australia",3442
+"Mar",1987,"Tasmania",-688
+"Mar",1987,"Northern Territory",822
+"Mar",1987,"Australian Capital Territory",778
+"Jun",1987,"New South Wales",10350
+"Jun",1987,"Victoria",7772
+"Jun",1987,"Queensland",5754
+"Jun",1987,"South Australia",2133
+"Jun",1987,"Western Australia",4251
+"Jun",1987,"Tasmania",-331
+"Jun",1987,"Northern Territory",619
+"Jun",1987,"Australian Capital Territory",726
+"Sep",1987,"New South Wales",9509
+"Sep",1987,"Victoria",7118
+"Sep",1987,"Queensland",4640
+"Sep",1987,"South Australia",2031
+"Sep",1987,"Western Australia",3706
+"Sep",1987,"Tasmania",-847
+"Sep",1987,"Northern Territory",750
+"Sep",1987,"Australian Capital Territory",773
+"Dec",1987,"New South Wales",14206
+"Dec",1987,"Victoria",7032
+"Dec",1987,"Queensland",4554
+"Dec",1987,"South Australia",1974
+"Dec",1987,"Western Australia",3053
+"Dec",1987,"Tasmania",-440
+"Dec",1987,"Northern Territory",662
+"Dec",1987,"Australian Capital Territory",833
+"Mar",1988,"New South Wales",8547
+"Mar",1988,"Victoria",8294
+"Mar",1988,"Queensland",5691
+"Mar",1988,"South Australia",2252
+"Mar",1988,"Western Australia",4546
+"Mar",1988,"Tasmania",-349
+"Mar",1988,"Northern Territory",614
+"Mar",1988,"Australian Capital Territory",826
+"Jun",1988,"New South Wales",9821
+"Jun",1988,"Victoria",8141
+"Jun",1988,"Queensland",5573
+"Jun",1988,"South Australia",2232
+"Jun",1988,"Western Australia",3835
+"Jun",1988,"Tasmania",-288
+"Jun",1988,"Northern Territory",729
+"Jun",1988,"Australian Capital Territory",740
+"Sep",1988,"New South Wales",9053
+"Sep",1988,"Victoria",7253
+"Sep",1988,"Queensland",4843
+"Sep",1988,"South Australia",1787
+"Sep",1988,"Western Australia",3545
+"Sep",1988,"Tasmania",-194
+"Sep",1988,"Northern Territory",560
+"Sep",1988,"Australian Capital Territory",813
+"Dec",1988,"New South Wales",12550
+"Dec",1988,"Victoria",7720
+"Dec",1988,"Queensland",5651
+"Dec",1988,"South Australia",2194
+"Dec",1988,"Western Australia",3685
+"Dec",1988,"Tasmania",-232
+"Dec",1988,"Northern Territory",660
+"Dec",1988,"Australian Capital Territory",940
+"Mar",1989,"New South Wales",12245
+"Mar",1989,"Victoria",8844
+"Mar",1989,"Queensland",5872
+"Mar",1989,"South Australia",2581
+"Mar",1989,"Western Australia",3881
+"Mar",1989,"Tasmania",92
+"Mar",1989,"Northern Territory",545
+"Mar",1989,"Australian Capital Territory",842
+"Jun",1989,"New South Wales",10588
+"Jun",1989,"Victoria",7796
+"Jun",1989,"Queensland",5966
+"Jun",1989,"South Australia",2102
+"Jun",1989,"Western Australia",4242
+"Jun",1989,"Tasmania",537
+"Jun",1989,"Northern Territory",733
+"Jun",1989,"Australian Capital Territory",706
+"Sep",1989,"New South Wales",5708
+"Sep",1989,"Victoria",7117
+"Sep",1989,"Queensland",4898
+"Sep",1989,"South Australia",1490
+"Sep",1989,"Western Australia",3694
+"Sep",1989,"Tasmania",681
+"Sep",1989,"Northern Territory",611
+"Sep",1989,"Australian Capital Territory",777
+"Dec",1989,"New South Wales",12189
+"Dec",1989,"Victoria",7866
+"Dec",1989,"Queensland",4890
+"Dec",1989,"South Australia",2089
+"Dec",1989,"Western Australia",3691
+"Dec",1989,"Tasmania",446
+"Dec",1989,"Northern Territory",703
+"Dec",1989,"Australian Capital Territory",832
+"Mar",1990,"New South Wales",10140
+"Mar",1990,"Victoria",9598
+"Mar",1990,"Queensland",6762
+"Mar",1990,"South Australia",2457
+"Mar",1990,"Western Australia",4365
+"Mar",1990,"Tasmania",481
+"Mar",1990,"Northern Territory",639
+"Mar",1990,"Australian Capital Territory",954
+"Jun",1990,"New South Wales",13609
+"Jun",1990,"Victoria",9111
+"Jun",1990,"Queensland",7064
+"Jun",1990,"South Australia",2217
+"Jun",1990,"Western Australia",4023
+"Jun",1990,"Tasmania",1182
+"Jun",1990,"Northern Territory",752
+"Jun",1990,"Australian Capital Territory",811
+"Sep",1990,"New South Wales",10339
+"Sep",1990,"Victoria",8473
+"Sep",1990,"Queensland",6011
+"Sep",1990,"South Australia",1998
+"Sep",1990,"Western Australia",3923
+"Sep",1990,"Tasmania",412
+"Sep",1990,"Northern Territory",767
+"Sep",1990,"Australian Capital Territory",699
+"Dec",1990,"New South Wales",12633
+"Dec",1990,"Victoria",8802
+"Dec",1990,"Queensland",5710
+"Dec",1990,"South Australia",2253
+"Dec",1990,"Western Australia",3638
+"Dec",1990,"Tasmania",94
+"Dec",1990,"Northern Territory",617
+"Dec",1990,"Australian Capital Territory",891
+"Mar",1991,"New South Wales",11579
+"Mar",1991,"Victoria",9146
+"Mar",1991,"Queensland",6377
+"Mar",1991,"South Australia",2545
+"Mar",1991,"Western Australia",4202
+"Mar",1991,"Tasmania",155
+"Mar",1991,"Northern Territory",670
+"Mar",1991,"Australian Capital Territory",912
+"Jun",1991,"New South Wales",12541
+"Jun",1991,"Victoria",8529
+"Jun",1991,"Queensland",6949
+"Jun",1991,"South Australia",1971
+"Jun",1991,"Western Australia",4401
+"Jun",1991,"Tasmania",155
+"Jun",1991,"Northern Territory",789
+"Jun",1991,"Australian Capital Territory",961
+"Sep",1991,"New South Wales",10526
+"Sep",1991,"Victoria",7932
+"Sep",1991,"Queensland",5929
+"Sep",1991,"South Australia",1908
+"Sep",1991,"Western Australia",3670
+"Sep",1991,"Tasmania",91
+"Sep",1991,"Northern Territory",688
+"Sep",1991,"Australian Capital Territory",819
+"Dec",1991,"New South Wales",11305
+"Dec",1991,"Victoria",8493
+"Dec",1991,"Queensland",6086
+"Dec",1991,"South Australia",2095
+"Dec",1991,"Western Australia",3624
+"Dec",1991,"Tasmania",-30
+"Dec",1991,"Northern Territory",644
+"Dec",1991,"Australian Capital Territory",994
+"Mar",1992,"New South Wales",13105
+"Mar",1992,"Victoria",9173
+"Mar",1992,"Queensland",7046
+"Mar",1992,"South Australia",2544
+"Mar",1992,"Western Australia",4049
+"Mar",1992,"Tasmania",-154
+"Mar",1992,"Northern Territory",736
+"Mar",1992,"Australian Capital Territory",851
+"Jun",1992,"New South Wales",11054
+"Jun",1992,"Victoria",7921
+"Jun",1992,"Queensland",6785
+"Jun",1992,"South Australia",2048
+"Jun",1992,"Western Australia",3927
+"Jun",1992,"Tasmania",-196
+"Jun",1992,"Northern Territory",858
+"Jun",1992,"Australian Capital Territory",781
+"Sep",1992,"New South Wales",11050
+"Sep",1992,"Victoria",8227
+"Sep",1992,"Queensland",5806
+"Sep",1992,"South Australia",1833
+"Sep",1992,"Western Australia",3637
+"Sep",1992,"Tasmania",-417
+"Sep",1992,"Northern Territory",668
+"Sep",1992,"Australian Capital Territory",886
+"Dec",1992,"New South Wales",11571
+"Dec",1992,"Victoria",8498
+"Dec",1992,"Queensland",6301
+"Dec",1992,"South Australia",2088
+"Dec",1992,"Western Australia",3432
+"Dec",1992,"Tasmania",-44
+"Dec",1992,"Northern Territory",706
+"Dec",1992,"Australian Capital Territory",868
+"Mar",1993,"New South Wales",12716
+"Mar",1993,"Victoria",8826
+"Mar",1993,"Queensland",7057
+"Mar",1993,"South Australia",2249
+"Mar",1993,"Western Australia",3905
+"Mar",1993,"Tasmania",-471
+"Mar",1993,"Northern Territory",741
+"Mar",1993,"Australian Capital Territory",849
+"Jun",1993,"New South Wales",11364
+"Jun",1993,"Victoria",8130
+"Jun",1993,"Queensland",6905
+"Jun",1993,"South Australia",2298
+"Jun",1993,"Western Australia",3830
+"Jun",1993,"Tasmania",-562
+"Jun",1993,"Northern Territory",742
+"Jun",1993,"Australian Capital Territory",835
+"Sep",1993,"New South Wales",10665
+"Sep",1993,"Victoria",7733
+"Sep",1993,"Queensland",6503
+"Sep",1993,"South Australia",1910
+"Sep",1993,"Western Australia",3442
+"Sep",1993,"Tasmania",-351
+"Sep",1993,"Northern Territory",688
+"Sep",1993,"Australian Capital Territory",790
+"Dec",1993,"New South Wales",11399
+"Dec",1993,"Victoria",8328
+"Dec",1993,"Queensland",6378
+"Dec",1993,"South Australia",1826
+"Dec",1993,"Western Australia",3467
+"Dec",1993,"Tasmania",-490
+"Dec",1993,"Northern Territory",726
+"Dec",1993,"Australian Capital Territory",831
+"Mar",1994,"New South Wales",12350
+"Mar",1994,"Victoria",8838
+"Mar",1994,"Queensland",6803
+"Mar",1994,"South Australia",2393
+"Mar",1994,"Western Australia",3919
+"Mar",1994,"Tasmania",-862
+"Mar",1994,"Northern Territory",743
+"Mar",1994,"Australian Capital Territory",852
+"Jun",1994,"New South Wales",10359
+"Jun",1994,"Victoria",7679
+"Jun",1994,"Queensland",6501
+"Jun",1994,"South Australia",1878
+"Jun",1994,"Western Australia",3671
+"Jun",1994,"Tasmania",-404
+"Jun",1994,"Northern Territory",723
+"Jun",1994,"Australian Capital Territory",817
+"Sep",1994,"New South Wales",9484
+"Sep",1994,"Victoria",6958
+"Sep",1994,"Queensland",5616
+"Sep",1994,"South Australia",1572
+"Sep",1994,"Western Australia",3571
+"Sep",1994,"Tasmania",-409
+"Sep",1994,"Northern Territory",642
+"Sep",1994,"Australian Capital Territory",824
+"Dec",1994,"New South Wales",11082
+"Dec",1994,"Victoria",8311
+"Dec",1994,"Queensland",6446
+"Dec",1994,"South Australia",1958
+"Dec",1994,"Western Australia",3488
+"Dec",1994,"Tasmania",-753
+"Dec",1994,"Northern Territory",693
+"Dec",1994,"Australian Capital Territory",766
+"Mar",1995,"New South Wales",11907
+"Mar",1995,"Victoria",8516
+"Mar",1995,"Queensland",7243
+"Mar",1995,"South Australia",2440
+"Mar",1995,"Western Australia",4133
+"Mar",1995,"Tasmania",-746
+"Mar",1995,"Northern Territory",803
+"Mar",1995,"Australian Capital Territory",848
+"Jun",1995,"New South Wales",10610
+"Jun",1995,"Victoria",7563
+"Jun",1995,"Queensland",6749
+"Jun",1995,"South Australia",1983
+"Jun",1995,"Western Australia",3602
+"Jun",1995,"Tasmania",-748
+"Jun",1995,"Northern Territory",744
+"Jun",1995,"Australian Capital Territory",812
+"Sep",1995,"New South Wales",9602
+"Sep",1995,"Victoria",6873
+"Sep",1995,"Queensland",6248
+"Sep",1995,"South Australia",1839
+"Sep",1995,"Western Australia",3498
+"Sep",1995,"Tasmania",-623
+"Sep",1995,"Northern Territory",754
+"Sep",1995,"Australian Capital Territory",804
+"Dec",1995,"New South Wales",10234
+"Dec",1995,"Victoria",7243
+"Dec",1995,"Queensland",6047
+"Dec",1995,"South Australia",1669
+"Dec",1995,"Western Australia",3181
+"Dec",1995,"Tasmania",-614
+"Dec",1995,"Northern Territory",626
+"Dec",1995,"Australian Capital Territory",814
+"Mar",1996,"New South Wales",10978
+"Mar",1996,"Victoria",7665
+"Mar",1996,"Queensland",6658
+"Mar",1996,"South Australia",2212
+"Mar",1996,"Western Australia",3699
+"Mar",1996,"Tasmania",-884
+"Mar",1996,"Northern Territory",718
+"Mar",1996,"Australian Capital Territory",759
+"Jun",1996,"New South Wales",9970
+"Jun",1996,"Victoria",6719
+"Jun",1996,"Queensland",6348
+"Jun",1996,"South Australia",1780
+"Jun",1996,"Western Australia",3575
+"Jun",1996,"Tasmania",-469
+"Jun",1996,"Northern Territory",731
+"Jun",1996,"Australian Capital Territory",685
+"Sep",1996,"New South Wales",9227
+"Sep",1996,"Victoria",6606
+"Sep",1996,"Queensland",5575
+"Sep",1996,"South Australia",1432
+"Sep",1996,"Western Australia",3242
+"Sep",1996,"Tasmania",-650
+"Sep",1996,"Northern Territory",692
+"Sep",1996,"Australian Capital Territory",782
+"Dec",1996,"New South Wales",12080
+"Dec",1996,"Victoria",7745
+"Dec",1996,"Queensland",6114
+"Dec",1996,"South Australia",1796
+"Dec",1996,"Western Australia",3464
+"Dec",1996,"Tasmania",-919
+"Dec",1996,"Northern Territory",629
+"Dec",1996,"Australian Capital Territory",807
+"Mar",1997,"New South Wales",11166
+"Mar",1997,"Victoria",7470
+"Mar",1997,"Queensland",6527
+"Mar",1997,"South Australia",2051
+"Mar",1997,"Western Australia",3923
+"Mar",1997,"Tasmania",-740
+"Mar",1997,"Northern Territory",707
+"Mar",1997,"Australian Capital Territory",712
+"Jun",1997,"New South Wales",10804
+"Jun",1997,"Victoria",6842
+"Jun",1997,"Queensland",7370
+"Jun",1997,"South Australia",1672
+"Jun",1997,"Western Australia",3529
+"Jun",1997,"Tasmania",-1016
+"Jun",1997,"Northern Territory",705
+"Jun",1997,"Australian Capital Territory",742
+"Sep",1997,"New South Wales",8534
+"Sep",1997,"Victoria",6093
+"Sep",1997,"Queensland",5750
+"Sep",1997,"South Australia",1407
+"Sep",1997,"Western Australia",2970
+"Sep",1997,"Tasmania",-791
+"Sep",1997,"Northern Territory",684
+"Sep",1997,"Australian Capital Territory",646
+"Dec",1997,"New South Wales",11009
+"Dec",1997,"Victoria",7447
+"Dec",1997,"Queensland",5754
+"Dec",1997,"South Australia",1650
+"Dec",1997,"Western Australia",3253
+"Dec",1997,"Tasmania",-864
+"Dec",1997,"Northern Territory",648
+"Dec",1997,"Australian Capital Territory",711
+"Mar",1998,"New South Wales",10460
+"Mar",1998,"Victoria",7408
+"Mar",1998,"Queensland",6635
+"Mar",1998,"South Australia",2074
+"Mar",1998,"Western Australia",3761
+"Mar",1998,"Tasmania",-952
+"Mar",1998,"Northern Territory",755
+"Mar",1998,"Australian Capital Territory",766
+"Jun",1998,"New South Wales",10042
+"Jun",1998,"Victoria",6774
+"Jun",1998,"Queensland",6508
+"Jun",1998,"South Australia",1471
+"Jun",1998,"Western Australia",3732
+"Jun",1998,"Tasmania",-1026
+"Jun",1998,"Northern Territory",738
+"Jun",1998,"Australian Capital Territory",713
+"Sep",1998,"New South Wales",9193
+"Sep",1998,"Victoria",6213
+"Sep",1998,"Queensland",5821
+"Sep",1998,"South Australia",1279
+"Sep",1998,"Western Australia",3408
+"Sep",1998,"Tasmania",-750
+"Sep",1998,"Northern Territory",609
+"Sep",1998,"Australian Capital Territory",682
+"Dec",1998,"New South Wales",10940
+"Dec",1998,"Victoria",6799
+"Dec",1998,"Queensland",5675
+"Dec",1998,"South Australia",1720
+"Dec",1998,"Western Australia",3558
+"Dec",1998,"Tasmania",-1007
+"Dec",1998,"Northern Territory",597
+"Dec",1998,"Australian Capital Territory",770
+"Mar",1999,"New South Wales",10914
+"Mar",1999,"Victoria",7680
+"Mar",1999,"Queensland",6818
+"Mar",1999,"South Australia",2100
+"Mar",1999,"Western Australia",3688
+"Mar",1999,"Tasmania",-862
+"Mar",1999,"Northern Territory",742
+"Mar",1999,"Australian Capital Territory",759
+"Jun",1999,"New South Wales",10258
+"Jun",1999,"Victoria",6385
+"Jun",1999,"Queensland",6122
+"Jun",1999,"South Australia",1652
+"Jun",1999,"Western Australia",3855
+"Jun",1999,"Tasmania",-698
+"Jun",1999,"Northern Territory",801
+"Jun",1999,"Australian Capital Territory",722
+"Sep",1999,"New South Wales",9676
+"Sep",1999,"Victoria",7019
+"Sep",1999,"Queensland",5774
+"Sep",1999,"South Australia",1419
+"Sep",1999,"Western Australia",3159
+"Sep",1999,"Tasmania",-600
+"Sep",1999,"Northern Territory",637
+"Sep",1999,"Australian Capital Territory",695
+"Dec",1999,"New South Wales",10369
+"Dec",1999,"Victoria",6997
+"Dec",1999,"Queensland",5843
+"Dec",1999,"South Australia",1611
+"Dec",1999,"Western Australia",3547
+"Dec",1999,"Tasmania",-686
+"Dec",1999,"Northern Territory",599
+"Dec",1999,"Australian Capital Territory",622
+"Mar",2000,"New South Wales",11374
+"Mar",2000,"Victoria",7277
+"Mar",2000,"Queensland",7000
+"Mar",2000,"South Australia",1828
+"Mar",2000,"Western Australia",3791
+"Mar",2000,"Tasmania",-687
+"Mar",2000,"Northern Territory",744
+"Mar",2000,"Australian Capital Territory",686
+"Jun",2000,"New South Wales",10483
+"Jun",2000,"Victoria",6449
+"Jun",2000,"Queensland",6035
+"Jun",2000,"South Australia",1448
+"Jun",2000,"Western Australia",3332
+"Jun",2000,"Tasmania",-659
+"Jun",2000,"Northern Territory",742
+"Jun",2000,"Australian Capital Territory",793
+"Sep",2000,"New South Wales",9137
+"Sep",2000,"Victoria",6241
+"Sep",2000,"Queensland",6012
+"Sep",2000,"South Australia",1147
+"Sep",2000,"Western Australia",3538
+"Sep",2000,"Tasmania",-649
+"Sep",2000,"Northern Territory",643
+"Sep",2000,"Australian Capital Territory",662
+"Dec",2000,"New South Wales",11361
+"Dec",2000,"Victoria",6782
+"Dec",2000,"Queensland",6055
+"Dec",2000,"South Australia",1385
+"Dec",2000,"Western Australia",3352
+"Dec",2000,"Tasmania",-538
+"Dec",2000,"Northern Territory",654
+"Dec",2000,"Australian Capital Territory",747
+"Mar",2001,"New South Wales",10883
+"Mar",2001,"Victoria",6832
+"Mar",2001,"Queensland",6724
+"Mar",2001,"South Australia",1691
+"Mar",2001,"Western Australia",3705
+"Mar",2001,"Tasmania",-393
+"Mar",2001,"Northern Territory",763
+"Mar",2001,"Australian Capital Territory",692
+"Jun",2001,"New South Wales",10020
+"Jun",2001,"Victoria",6581
+"Jun",2001,"Queensland",6597
+"Jun",2001,"South Australia",1272
+"Jun",2001,"Western Australia",3371
+"Jun",2001,"Tasmania",-556
+"Jun",2001,"Northern Territory",792
+"Jun",2001,"Australian Capital Territory",581
+"Sep",2001,"New South Wales",9475
+"Sep",2001,"Victoria",7029
+"Sep",2001,"Queensland",6235
+"Sep",2001,"South Australia",1316
+"Sep",2001,"Western Australia",3228
+"Sep",2001,"Tasmania",-392
+"Sep",2001,"Northern Territory",693
+"Sep",2001,"Australian Capital Territory",618
+"Dec",2001,"New South Wales",9757
+"Dec",2001,"Victoria",6689
+"Dec",2001,"Queensland",5842
+"Dec",2001,"South Australia",1195
+"Dec",2001,"Western Australia",3164
+"Dec",2001,"Tasmania",-503
+"Dec",2001,"Northern Territory",681
+"Dec",2001,"Australian Capital Territory",584
+"Mar",2002,"New South Wales",11439
+"Mar",2002,"Victoria",7387
+"Mar",2002,"Queensland",6471
+"Mar",2002,"South Australia",1876
+"Mar",2002,"Western Australia",3614
+"Mar",2002,"Tasmania",-226
+"Mar",2002,"Northern Territory",742
+"Mar",2002,"Australian Capital Territory",708
+"Jun",2002,"New South Wales",9377
+"Jun",2002,"Victoria",6677
+"Jun",2002,"Queensland",6306
+"Jun",2002,"South Australia",1407
+"Jun",2002,"Western Australia",3227
+"Jun",2002,"Tasmania",-302
+"Jun",2002,"Northern Territory",723
+"Jun",2002,"Australian Capital Territory",651
+"Sep",2002,"New South Wales",8450
+"Sep",2002,"Victoria",6231
+"Sep",2002,"Queensland",5268
+"Sep",2002,"South Australia",1060
+"Sep",2002,"Western Australia",2852
+"Sep",2002,"Tasmania",40
+"Sep",2002,"Northern Territory",716
+"Sep",2002,"Australian Capital Territory",678
+"Dec",2002,"New South Wales",10587
+"Dec",2002,"Victoria",7045
+"Dec",2002,"Queensland",5756
+"Dec",2002,"South Australia",1254
+"Dec",2002,"Western Australia",3226
+"Dec",2002,"Tasmania",466
+"Dec",2002,"Northern Territory",672
+"Dec",2002,"Australian Capital Territory",631
+"Mar",2003,"New South Wales",10787
+"Mar",2003,"Victoria",7268
+"Mar",2003,"Queensland",6667
+"Mar",2003,"South Australia",1528
+"Mar",2003,"Western Australia",3347
+"Mar",2003,"Tasmania",842
+"Mar",2003,"Northern Territory",796
+"Mar",2003,"Australian Capital Territory",693
+"Jun",2003,"New South Wales",10149
+"Jun",2003,"Victoria",6601
+"Jun",2003,"Queensland",6644
+"Jun",2003,"South Australia",1401
+"Jun",2003,"Western Australia",3439
+"Jun",2003,"Tasmania",645
+"Jun",2003,"Northern Territory",762
+"Jun",2003,"Australian Capital Territory",618
+"Sep",2003,"New South Wales",8878
+"Sep",2003,"Victoria",6634
+"Sep",2003,"Queensland",5992
+"Sep",2003,"South Australia",1153
+"Sep",2003,"Western Australia",2804
+"Sep",2003,"Tasmania",851
+"Sep",2003,"Northern Territory",668
+"Sep",2003,"Australian Capital Territory",658
+"Dec",2003,"New South Wales",10151
+"Dec",2003,"Victoria",7380
+"Dec",2003,"Queensland",6439
+"Dec",2003,"South Australia",1408
+"Dec",2003,"Western Australia",2890
+"Dec",2003,"Tasmania",799
+"Dec",2003,"Northern Territory",658
+"Dec",2003,"Australian Capital Territory",719
+"Mar",2004,"New South Wales",11413
+"Mar",2004,"Victoria",7762
+"Mar",2004,"Queensland",6747
+"Mar",2004,"South Australia",1489
+"Mar",2004,"Western Australia",3850
+"Mar",2004,"Tasmania",779
+"Mar",2004,"Northern Territory",740
+"Mar",2004,"Australian Capital Territory",703
+"Jun",2004,"New South Wales",9023
+"Jun",2004,"Victoria",6575
+"Jun",2004,"Queensland",6123
+"Jun",2004,"South Australia",1358
+"Jun",2004,"Western Australia",3570
+"Jun",2004,"Tasmania",145
+"Jun",2004,"Northern Territory",689
+"Jun",2004,"Australian Capital Territory",595
+"Sep",2004,"New South Wales",8592
+"Sep",2004,"Victoria",7247
+"Sep",2004,"Queensland",6282
+"Sep",2004,"South Australia",1078
+"Sep",2004,"Western Australia",3147
+"Sep",2004,"Tasmania",158
+"Sep",2004,"Northern Territory",638
+"Sep",2004,"Australian Capital Territory",711
+"Dec",2004,"New South Wales",9910
+"Dec",2004,"Victoria",7160
+"Dec",2004,"Queensland",5946
+"Dec",2004,"South Australia",1386
+"Dec",2004,"Western Australia",3301
+"Dec",2004,"Tasmania",-71
+"Dec",2004,"Northern Territory",578
+"Dec",2004,"Australian Capital Territory",689
+"Mar",2005,"New South Wales",11677
+"Mar",2005,"Victoria",7881
+"Mar",2005,"Queensland",7736
+"Mar",2005,"South Australia",1879
+"Mar",2005,"Western Australia",4033
+"Mar",2005,"Tasmania",107
+"Mar",2005,"Northern Territory",660
+"Mar",2005,"Australian Capital Territory",719
+"Jun",2005,"New South Wales",11201
+"Jun",2005,"Victoria",7620
+"Jun",2005,"Queensland",8103
+"Jun",2005,"South Australia",1536
+"Jun",2005,"Western Australia",3792
+"Jun",2005,"Tasmania",73
+"Jun",2005,"Northern Territory",682
+"Jun",2005,"Australian Capital Territory",656
+"Sep",2005,"New South Wales",10493
+"Sep",2005,"Victoria",7176
+"Sep",2005,"Queensland",7193
+"Sep",2005,"South Australia",1181
+"Sep",2005,"Western Australia",3568
+"Sep",2005,"Tasmania",-6
+"Sep",2005,"Northern Territory",704
+"Sep",2005,"Australian Capital Territory",679
+"Dec",2005,"New South Wales",11236
+"Dec",2005,"Victoria",7866
+"Dec",2005,"Queensland",7038
+"Dec",2005,"South Australia",1471
+"Dec",2005,"Western Australia",3592
+"Dec",2005,"Tasmania",132
+"Dec",2005,"Northern Territory",613
+"Dec",2005,"Australian Capital Territory",749
+"Mar",2006,"New South Wales",10033
+"Mar",2006,"Victoria",8341
+"Mar",2006,"Queensland",7851
+"Mar",2006,"South Australia",1868
+"Mar",2006,"Western Australia",4144
+"Mar",2006,"Tasmania",13
+"Mar",2006,"Northern Territory",724
+"Mar",2006,"Australian Capital Territory",815
+"Jun",2006,"New South Wales",10763
+"Jun",2006,"Victoria",7324
+"Jun",2006,"Queensland",7497
+"Jun",2006,"South Australia",1338
+"Jun",2006,"Western Australia",3881
+"Jun",2006,"Tasmania",-221
+"Jun",2006,"Northern Territory",723
+"Jun",2006,"Australian Capital Territory",665
+"Sep",2006,"New South Wales",11589
+"Sep",2006,"Victoria",8554
+"Sep",2006,"Queensland",7836
+"Sep",2006,"South Australia",1652
+"Sep",2006,"Western Australia",4325
+"Sep",2006,"Tasmania",-159
+"Sep",2006,"Northern Territory",650
+"Sep",2006,"Australian Capital Territory",845
+"Dec",2006,"New South Wales",12346
+"Dec",2006,"Victoria",8539
+"Dec",2006,"Queensland",7731
+"Dec",2006,"South Australia",1592
+"Dec",2006,"Western Australia",4097
+"Dec",2006,"Tasmania",-118
+"Dec",2006,"Northern Territory",673
+"Dec",2006,"Australian Capital Territory",699
+"Mar",2007,"New South Wales",13709
+"Mar",2007,"Victoria",9463
+"Mar",2007,"Queensland",8927
+"Mar",2007,"South Australia",2176
+"Mar",2007,"Western Australia",4626
+"Mar",2007,"Tasmania",-55
+"Mar",2007,"Northern Territory",762
+"Mar",2007,"Australian Capital Territory",747
+"Jun",2007,"New South Wales",12570
+"Jun",2007,"Victoria",8237
+"Jun",2007,"Queensland",8649
+"Jun",2007,"South Australia",1628
+"Jun",2007,"Western Australia",4287
+"Jun",2007,"Tasmania",-205
+"Jun",2007,"Northern Territory",737
+"Jun",2007,"Australian Capital Territory",776
+"Sep",2007,"New South Wales",11319
+"Sep",2007,"Victoria",8672
+"Sep",2007,"Queensland",8511
+"Sep",2007,"South Australia",1558
+"Sep",2007,"Western Australia",4192
+"Sep",2007,"Tasmania",247
+"Sep",2007,"Northern Territory",665
+"Sep",2007,"Australian Capital Territory",772
+"Dec",2007,"New South Wales",12601
+"Dec",2007,"Victoria",9023
+"Dec",2007,"Queensland",8441
+"Dec",2007,"South Australia",1975
+"Dec",2007,"Western Australia",4387
+"Dec",2007,"Tasmania",225
+"Dec",2007,"Northern Territory",706
+"Dec",2007,"Australian Capital Territory",740
+"Mar",2008,"New South Wales",13675
+"Mar",2008,"Victoria",9457
+"Mar",2008,"Queensland",9382
+"Mar",2008,"South Australia",2131
+"Mar",2008,"Western Australia",5026
+"Mar",2008,"Tasmania",193
+"Mar",2008,"Northern Territory",736
+"Mar",2008,"Australian Capital Territory",740
+"Jun",2008,"New South Wales",12041
+"Jun",2008,"Victoria",8166
+"Jun",2008,"Queensland",9224
+"Jun",2008,"South Australia",1669
+"Jun",2008,"Western Australia",4551
+"Jun",2008,"Tasmania",65
+"Jun",2008,"Northern Territory",743
+"Jun",2008,"Australian Capital Territory",711
+"Sep",2008,"New South Wales",11312
+"Sep",2008,"Victoria",8463
+"Sep",2008,"Queensland",8487
+"Sep",2008,"South Australia",1621
+"Sep",2008,"Western Australia",4203
+"Sep",2008,"Tasmania",355
+"Sep",2008,"Northern Territory",720
+"Sep",2008,"Australian Capital Territory",806
+"Dec",2008,"New South Wales",13627
+"Dec",2008,"Victoria",9126
+"Dec",2008,"Queensland",8940
+"Dec",2008,"South Australia",1758
+"Dec",2008,"Western Australia",4385
+"Dec",2008,"Tasmania",513
+"Dec",2008,"Northern Territory",620
+"Dec",2008,"Australian Capital Territory",824
+"Mar",2009,"New South Wales",13333
+"Mar",2009,"Victoria",8827
+"Mar",2009,"Queensland",9695
+"Mar",2009,"South Australia",1987
+"Mar",2009,"Western Australia",4806
+"Mar",2009,"Tasmania",261
+"Mar",2009,"Northern Territory",744
+"Mar",2009,"Australian Capital Territory",723
+"Jun",2009,"New South Wales",12266
+"Jun",2009,"Victoria",8778
+"Jun",2009,"Queensland",9397
+"Jun",2009,"South Australia",1835
+"Jun",2009,"Western Australia",4828
+"Jun",2009,"Tasmania",-66
+"Jun",2009,"Northern Territory",806
+"Jun",2009,"Australian Capital Territory",813
+"Sep",2009,"New South Wales",12466
+"Sep",2009,"Victoria",8904
+"Sep",2009,"Queensland",8739
+"Sep",2009,"South Australia",1707
+"Sep",2009,"Western Australia",4538
+"Sep",2009,"Tasmania",87
+"Sep",2009,"Northern Territory",714
+"Sep",2009,"Australian Capital Territory",885
+"Dec",2009,"New South Wales",13435
+"Dec",2009,"Victoria",9904
+"Dec",2009,"Queensland",8697
+"Dec",2009,"South Australia",1757
+"Dec",2009,"Western Australia",4535
+"Dec",2009,"Tasmania",30
+"Dec",2009,"Northern Territory",719
+"Dec",2009,"Australian Capital Territory",860
+"Mar",2010,"New South Wales",13881
+"Mar",2010,"Victoria",10006
+"Mar",2010,"Queensland",9767
+"Mar",2010,"South Australia",2169
+"Mar",2010,"Western Australia",5078
+"Mar",2010,"Tasmania",456
+"Mar",2010,"Northern Territory",762
+"Mar",2010,"Australian Capital Territory",962
+"Jun",2010,"New South Wales",13254
+"Jun",2010,"Victoria",8850
+"Jun",2010,"Queensland",9395
+"Jun",2010,"South Australia",1823
+"Jun",2010,"Western Australia",4783
+"Jun",2010,"Tasmania",91
+"Jun",2010,"Northern Territory",769
+"Jun",2010,"Australian Capital Territory",886
+"Sep",2010,"New South Wales",12247
+"Sep",2010,"Victoria",8666
+"Sep",2010,"Queensland",8880
+"Sep",2010,"South Australia",1535
+"Sep",2010,"Western Australia",4503
+"Sep",2010,"Tasmania",49
+"Sep",2010,"Northern Territory",704
+"Sep",2010,"Australian Capital Territory",797
+"Dec",2010,"New South Wales",11876
+"Dec",2010,"Victoria",8646
+"Dec",2010,"Queensland",8240
+"Dec",2010,"South Australia",1616
+"Dec",2010,"Western Australia",4272
+"Dec",2010,"Tasmania",118
+"Dec",2010,"Northern Territory",668
+"Dec",2010,"Australian Capital Territory",777
+"Mar",2011,"New South Wales",13703
+"Mar",2011,"Victoria",9312
+"Mar",2011,"Queensland",9503
+"Mar",2011,"South Australia",2083
+"Mar",2011,"Western Australia",5296
+"Mar",2011,"Tasmania",1
+"Mar",2011,"Northern Territory",745
+"Mar",2011,"Australian Capital Territory",953
+"Jun",2011,"New South Wales",12172
+"Jun",2011,"Victoria",8548
+"Jun",2011,"Queensland",9181
+"Jun",2011,"South Australia",1836
+"Jun",2011,"Western Australia",5057
+"Jun",2011,"Tasmania",-215
+"Jun",2011,"Northern Territory",828
+"Jun",2011,"Australian Capital Territory",855
+"Sep",2011,"New South Wales",11063
+"Sep",2011,"Victoria",9107
+"Sep",2011,"Queensland",7918
+"Sep",2011,"South Australia",1753
+"Sep",2011,"Western Australia",4659
+"Sep",2011,"Tasmania",-209
+"Sep",2011,"Northern Territory",722
+"Sep",2011,"Australian Capital Territory",841
+"Dec",2011,"New South Wales",11684
+"Dec",2011,"Victoria",9627
+"Dec",2011,"Queensland",8353
+"Dec",2011,"South Australia",1829
+"Dec",2011,"Western Australia",4581
+"Dec",2011,"Tasmania",-640
+"Dec",2011,"Northern Territory",614
+"Dec",2011,"Australian Capital Territory",902
+"Mar",2012,"New South Wales",13729
+"Mar",2012,"Victoria",10401
+"Mar",2012,"Queensland",10084
+"Mar",2012,"South Australia",2094
+"Mar",2012,"Western Australia",5470
+"Mar",2012,"Tasmania",-522
+"Mar",2012,"Northern Territory",800
+"Mar",2012,"Australian Capital Territory",983
+"Jun",2012,"New South Wales",11945
+"Jun",2012,"Victoria",9715
+"Jun",2012,"Queensland",9078
+"Jun",2012,"South Australia",1818
+"Jun",2012,"Western Australia",5260
+"Jun",2012,"Tasmania",-554
+"Jun",2012,"Northern Territory",858
+"Jun",2012,"Australian Capital Territory",838
+"Sep",2012,"New South Wales",11114
+"Sep",2012,"Victoria",9056
+"Sep",2012,"Queensland",8099
+"Sep",2012,"South Australia",1537
+"Sep",2012,"Western Australia",4667
+"Sep",2012,"Tasmania",-450
+"Sep",2012,"Northern Territory",717
+"Sep",2012,"Australian Capital Territory",959
+"Dec",2012,"New South Wales",13358
+"Dec",2012,"Victoria",10591
+"Dec",2012,"Queensland",9176
+"Dec",2012,"South Australia",1920
+"Dec",2012,"Western Australia",5423
+"Dec",2012,"Tasmania",-249
+"Dec",2012,"Northern Territory",664
+"Dec",2012,"Australian Capital Territory",974
+"Mar",2013,"New South Wales",13255
+"Mar",2013,"Victoria",10488
+"Mar",2013,"Queensland",9423
+"Mar",2013,"South Australia",2138
+"Mar",2013,"Western Australia",5655
+"Mar",2013,"Tasmania",-253
+"Mar",2013,"Northern Territory",757
+"Mar",2013,"Australian Capital Territory",951
+"Jun",2013,"New South Wales",11918
+"Jun",2013,"Victoria",9819
+"Jun",2013,"Queensland",8829
+"Jun",2013,"South Australia",1768
+"Jun",2013,"Western Australia",5306
+"Jun",2013,"Tasmania",-334
+"Jun",2013,"Northern Territory",804
+"Jun",2013,"Australian Capital Territory",914
+"Sep",2013,"New South Wales",10275
+"Sep",2013,"Victoria",9554
+"Sep",2013,"Queensland",8752
+"Sep",2013,"South Australia",1521
+"Sep",2013,"Western Australia",5000
+"Sep",2013,"Tasmania",-256
+"Sep",2013,"Northern Territory",678
+"Sep",2013,"Australian Capital Territory",996
+"Dec",2013,"New South Wales",11654
+"Dec",2013,"Victoria",9761
+"Dec",2013,"Queensland",8444
+"Dec",2013,"South Australia",1655
+"Dec",2013,"Western Australia",5115
+"Dec",2013,"Tasmania",83
+"Dec",2013,"Northern Territory",697
+"Dec",2013,"Australian Capital Territory",979
+"Mar",2014,"New South Wales",12341
+"Mar",2014,"Victoria",10589
+"Mar",2014,"Queensland",9665
+"Mar",2014,"South Australia",2140
+"Mar",2014,"Western Australia",5699
+"Mar",2014,"Tasmania",-44
+"Mar",2014,"Northern Territory",720
+"Mar",2014,"Australian Capital Territory",1007
+"Jun",2014,"New South Wales",11073
+"Jun",2014,"Victoria",9315
+"Jun",2014,"Queensland",8760
+"Jun",2014,"South Australia",1876
+"Jun",2014,"Western Australia",5494
+"Jun",2014,"Tasmania",-218
+"Jun",2014,"Northern Territory",769
+"Jun",2014,"Australian Capital Territory",881
+"Sep",2014,"New South Wales",9978
+"Sep",2014,"Victoria",9341
+"Sep",2014,"Queensland",8153
+"Sep",2014,"South Australia",1380
+"Sep",2014,"Western Australia",5159
+"Sep",2014,"Tasmania",-65
+"Sep",2014,"Northern Territory",643
+"Sep",2014,"Australian Capital Territory",928
+"Dec",2014,"New South Wales",12029
+"Dec",2014,"Victoria",10112
+"Dec",2014,"Queensland",8375
+"Dec",2014,"South Australia",1756
+"Dec",2014,"Western Australia",5298
+"Dec",2014,"Tasmania",-297
+"Dec",2014,"Northern Territory",660
+"Dec",2014,"Australian Capital Territory",978
+"Mar",2015,"New South Wales",12461
+"Mar",2015,"Victoria",10092
+"Mar",2015,"Queensland",8412
+"Mar",2015,"South Australia",1795
+"Mar",2015,"Western Australia",5501
+"Mar",2015,"Tasmania",148
+"Mar",2015,"Northern Territory",763
+"Mar",2015,"Australian Capital Territory",967
+"Jun",2015,"New South Wales",10455
+"Jun",2015,"Victoria",8598
+"Jun",2015,"Queensland",8177
+"Jun",2015,"South Australia",1541
+"Jun",2015,"Western Australia",5138
+"Jun",2015,"Tasmania",341
+"Jun",2015,"Northern Territory",791
+"Jun",2015,"Australian Capital Territory",946
+"Sep",2015,"New South Wales",10185
+"Sep",2015,"Victoria",9224
+"Sep",2015,"Queensland",7576
+"Sep",2015,"South Australia",1205
+"Sep",2015,"Western Australia",4880
+"Sep",2015,"Tasmania",315
+"Sep",2015,"Northern Territory",674
+"Sep",2015,"Australian Capital Territory",896
+"Dec",2015,"New South Wales",11479
+"Dec",2015,"Victoria",10306
+"Dec",2015,"Queensland",7410
+"Dec",2015,"South Australia",1671
+"Dec",2015,"Western Australia",5205
+"Dec",2015,"Tasmania",-185
+"Dec",2015,"Northern Territory",623
+"Dec",2015,"Australian Capital Territory",962
+"Mar",2016,"New South Wales",12677
+"Mar",2016,"Victoria",10943
+"Mar",2016,"Queensland",9012
+"Mar",2016,"South Australia",1970
+"Mar",2016,"Western Australia",5821
+"Mar",2016,"Tasmania",240
+"Mar",2016,"Northern Territory",754
+"Mar",2016,"Australian Capital Territory",998
+"Jun",2016,"New South Wales",11814
+"Jun",2016,"Victoria",9652
+"Jun",2016,"Queensland",8388
+"Jun",2016,"South Australia",1693
+"Jun",2016,"Western Australia",5456
+"Jun",2016,"Tasmania",390
+"Jun",2016,"Northern Territory",786
+"Jun",2016,"Australian Capital Territory",878
+"Sep",2016,"New South Wales",10332
+"Sep",2016,"Victoria",9347
+"Sep",2016,"Queensland",7657
+"Sep",2016,"South Australia",1370
+"Sep",2016,"Western Australia",4731
+"Sep",2016,"Tasmania",309
+"Sep",2016,"Northern Territory",690
+"Sep",2016,"Australian Capital Territory",912
+"Dec",2016,"New South Wales",11344
+"Dec",2016,"Victoria",9564
+"Dec",2016,"Queensland",7296
+"Dec",2016,"South Australia",1283
+"Dec",2016,"Western Australia",4953
+"Dec",2016,"Tasmania",485
+"Dec",2016,"Northern Territory",700
+"Dec",2016,"Australian Capital Territory",883
+"Mar",2017,"New South Wales",12366
+"Mar",2017,"Victoria",10692
+"Mar",2017,"Queensland",7949
+"Mar",2017,"South Australia",1726
+"Mar",2017,"Western Australia",5260
+"Mar",2017,"Tasmania",506
+"Mar",2017,"Northern Territory",687
+"Mar",2017,"Australian Capital Territory",941
+"Jun",2017,"New South Wales",10695
+"Jun",2017,"Victoria",9395
+"Jun",2017,"Queensland",7705
+"Jun",2017,"South Australia",1304
+"Jun",2017,"Western Australia",5196
+"Jun",2017,"Tasmania",641
+"Jun",2017,"Northern Territory",784
+"Jun",2017,"Australian Capital Territory",807
+"Sep",2017,"New South Wales",8451
+"Sep",2017,"Victoria",8304
+"Sep",2017,"Queensland",6696
+"Sep",2017,"South Australia",922
+"Sep",2017,"Western Australia",4591
+"Sep",2017,"Tasmania",685
+"Sep",2017,"Northern Territory",604
+"Sep",2017,"Australian Capital Territory",804
+"Dec",2017,"New South Wales",10889
+"Dec",2017,"Victoria",10309
+"Dec",2017,"Queensland",6754
+"Dec",2017,"South Australia",1110
+"Dec",2017,"Western Australia",4924
+"Dec",2017,"Tasmania",515
+"Dec",2017,"Northern Territory",621
+"Dec",2017,"Australian Capital Territory",813
+"Mar",2018,"New South Wales",12484
+"Mar",2018,"Victoria",10665
+"Mar",2018,"Queensland",8262
+"Mar",2018,"South Australia",1736
+"Mar",2018,"Western Australia",5140
+"Mar",2018,"Tasmania",995
+"Mar",2018,"Northern Territory",671
+"Mar",2018,"Australian Capital Territory",834
+"Jun",2018,"New South Wales",11430
+"Jun",2018,"Victoria",9851
+"Jun",2018,"Queensland",7644
+"Jun",2018,"South Australia",1263
+"Jun",2018,"Western Australia",4653
+"Jun",2018,"Tasmania",834
+"Jun",2018,"Northern Territory",718
+"Jun",2018,"Australian Capital Territory",747
+"Sep",2018,"New South Wales",10545
+"Sep",2018,"Victoria",8695
+"Sep",2018,"Queensland",6959
+"Sep",2018,"South Australia",982
+"Sep",2018,"Western Australia",4379
+"Sep",2018,"Tasmania",566
+"Sep",2018,"Northern Territory",625
+"Sep",2018,"Australian Capital Territory",759
+"Dec",2018,"New South Wales",11402
+"Dec",2018,"Victoria",9563
+"Dec",2018,"Queensland",7181
+"Dec",2018,"South Australia",1379
+"Dec",2018,"Western Australia",4612
+"Dec",2018,"Tasmania",649
+"Dec",2018,"Northern Territory",584
+"Dec",2018,"Australian Capital Territory",826
+"Mar",2019,"New South Wales",11985
+"Mar",2019,"Victoria",10210
+"Mar",2019,"Queensland",7908
+"Mar",2019,"South Australia",1502
+"Mar",2019,"Western Australia",4644
+"Mar",2019,"Tasmania",527
+"Mar",2019,"Northern Territory",673
+"Mar",2019,"Australian Capital Territory",886
+"Jun",2019,"New South Wales",10799
+"Jun",2019,"Victoria",8719
+"Jun",2019,"Queensland",7832
+"Jun",2019,"South Australia",1108
+"Jun",2019,"Western Australia",4410
+"Jun",2019,"Tasmania",469
+"Jun",2019,"Northern Territory",642
+"Jun",2019,"Australian Capital Territory",820
+"Sep",2019,"New South Wales",10026
+"Sep",2019,"Victoria",8178
+"Sep",2019,"Queensland",6416
+"Sep",2019,"South Australia",1183
+"Sep",2019,"Western Australia",4495
+"Sep",2019,"Tasmania",45
+"Sep",2019,"Northern Territory",597
+"Sep",2019,"Australian Capital Territory",914
+"Dec",2019,"New South Wales",11010
+"Dec",2019,"Victoria",8835
+"Dec",2019,"Queensland",6808
+"Dec",2019,"South Australia",1203
+"Dec",2019,"Western Australia",4808
+"Dec",2019,"Tasmania",311
+"Dec",2019,"Northern Territory",550
+"Dec",2019,"Australian Capital Territory",836
+"Mar",2020,"New South Wales",11348
+"Mar",2020,"Victoria",9166
+"Mar",2020,"Queensland",7273
+"Mar",2020,"South Australia",1317
+"Mar",2020,"Western Australia",4653
+"Mar",2020,"Tasmania",236
+"Mar",2020,"Northern Territory",655
+"Mar",2020,"Australian Capital Territory",831
+"Jun",2020,"New South Wales",10285
+"Jun",2020,"Victoria",7959
+"Jun",2020,"Queensland",7542
+"Jun",2020,"South Australia",1115
+"Jun",2020,"Western Australia",4250
+"Jun",2020,"Tasmania",296
+"Jun",2020,"Northern Territory",698
+"Jun",2020,"Australian Capital Territory",762
+"Sep",2020,"New South Wales",9794
+"Sep",2020,"Victoria",7625
+"Sep",2020,"Queensland",6978
+"Sep",2020,"South Australia",968
+"Sep",2020,"Western Australia",4203
+"Sep",2020,"Tasmania",797
+"Sep",2020,"Northern Territory",604
+"Sep",2020,"Australian Capital Territory",787
+"Dec",2020,"New South Wales",9844
+"Dec",2020,"Victoria",8315
+"Dec",2020,"Queensland",6303
+"Dec",2020,"South Australia",1110
+"Dec",2020,"Western Australia",4032
+"Dec",2020,"Tasmania",1304
+"Dec",2020,"Northern Territory",580
+"Dec",2020,"Australian Capital Territory",796
+"Mar",2021,"New South Wales",13071
+"Mar",2021,"Victoria",10424
+"Mar",2021,"Queensland",8517
+"Mar",2021,"South Australia",1863
+"Mar",2021,"Western Australia",5127
+"Mar",2021,"Tasmania",1397
+"Mar",2021,"Northern Territory",755
+"Mar",2021,"Australian Capital Territory",969
+"Jun",2021,"New South Wales",11356
+"Jun",2021,"Victoria",8923
+"Jun",2021,"Queensland",7736
+"Jun",2021,"South Australia",1419
+"Jun",2021,"Western Australia",4717
+"Jun",2021,"Tasmania",1099
+"Jun",2021,"Northern Territory",712
+"Jun",2021,"Australian Capital Territory",766
+"Sep",2021,"New South Wales",10241
+"Sep",2021,"Victoria",8397
+"Sep",2021,"Queensland",6998
+"Sep",2021,"South Australia",950
+"Sep",2021,"Western Australia",4238
+"Sep",2021,"Tasmania",-625
+"Sep",2021,"Northern Territory",537
+"Sep",2021,"Australian Capital Territory",825
+"Dec",2021,"New South Wales",11428
+"Dec",2021,"Victoria",8292
+"Dec",2021,"Queensland",6524
+"Dec",2021,"South Australia",1129
+"Dec",2021,"Western Australia",4510
+"Dec",2021,"Tasmania",221
+"Dec",2021,"Northern Territory",582
+"Dec",2021,"Australian Capital Territory",896
+"Mar",2022,"New South Wales",9771
+"Mar",2022,"Victoria",7750
+"Mar",2022,"Queensland",6764
+"Mar",2022,"South Australia",1243
+"Mar",2022,"Western Australia",4411
+"Mar",2022,"Tasmania",191
+"Mar",2022,"Northern Territory",640
+"Mar",2022,"Australian Capital Territory",853
+"Jun",2022,"New South Wales",8425
+"Jun",2022,"Victoria",7185
+"Jun",2022,"Queensland",6439
+"Jun",2022,"South Australia",739
+"Jun",2022,"Western Australia",3594
+"Jun",2022,"Tasmania",-166
+"Jun",2022,"Northern Territory",543
+"Jun",2022,"Australian Capital Territory",658
+"Sep",2022,"New South Wales",6521
+"Sep",2022,"Victoria",6040
+"Sep",2022,"Queensland",4923
+"Sep",2022,"South Australia",626
+"Sep",2022,"Western Australia",3482
+"Sep",2022,"Tasmania",-262
+"Sep",2022,"Northern Territory",557
+"Sep",2022,"Australian Capital Territory",656
+"Dec",2022,"New South Wales",8260
+"Dec",2022,"Victoria",7246
+"Dec",2022,"Queensland",5223
+"Dec",2022,"South Australia",760
+"Dec",2022,"Western Australia",3516
+"Dec",2022,"Tasmania",-704
+"Dec",2022,"Northern Territory",515
+"Dec",2022,"Australian Capital Territory",621
+"Mar",2023,"New South Wales",8990
+"Mar",2023,"Victoria",7886
+"Mar",2023,"Queensland",5720
+"Mar",2023,"South Australia",944
+"Mar",2023,"Western Australia",3521
+"Mar",2023,"Tasmania",-862
+"Mar",2023,"Northern Territory",532
+"Mar",2023,"Australian Capital Territory",670
+"Jun",2023,"New South Wales",7782
+"Jun",2023,"Victoria",6883
+"Jun",2023,"Queensland",5402
+"Jun",2023,"South Australia",526
+"Jun",2023,"Western Australia",3214
+"Jun",2023,"Tasmania",-769
+"Jun",2023,"Northern Territory",605
+"Jun",2023,"Australian Capital Territory",697
+"Sep",2023,"New South Wales",7556
+"Sep",2023,"Victoria",7851
+"Sep",2023,"Queensland",5735
+"Sep",2023,"South Australia",718
+"Sep",2023,"Western Australia",4336
+"Sep",2023,"Tasmania",-744
+"Sep",2023,"Northern Territory",529
+"Sep",2023,"Australian Capital Territory",620
+"Dec",2023,"New South Wales",8190
+"Dec",2023,"Victoria",4646
+"Dec",2023,"Queensland",4405
+"Dec",2023,"South Australia",783
+"Dec",2023,"Western Australia",2904
+"Dec",2023,"Tasmania",-896
+"Dec",2023,"Northern Territory",365
+"Dec",2023,"Australian Capital Territory",711
+"Mar",2024,"New South Wales",7248
+"Mar",2024,"Victoria",12302
+"Mar",2024,"Queensland",5330
+"Mar",2024,"South Australia",894
+"Mar",2024,"Western Australia",3630
+"Mar",2024,"Tasmania",-451
+"Mar",2024,"Northern Territory",683
+"Mar",2024,"Australian Capital Territory",637
